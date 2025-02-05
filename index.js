@@ -3,10 +3,10 @@
 
 
 /*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : SoloLord201( Mr Project-x ) 
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
