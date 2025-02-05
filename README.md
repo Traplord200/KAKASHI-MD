@@ -13,7 +13,7 @@ src="https://qu.ax/biHjm.jpg"/>
 
    </p>
 <p align="center">
-<a href="https://github.com/techlord01"><img title="Author" src="https://img.shields.io/badge/BLACK-HAWK TEAM-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/techlord01"><img title="Author" src="https://img.shields.io/badge/BLACK-HAWK TEAM-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263788521064"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -24,7 +24,7 @@ src="https://qu.ax/biHjm.jpg"/>
 <a href="https://github.com/techlord01/KAKASHI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/techlord01/KAKASHI-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechlord01%2FKAKASHI-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/techlord01/KAKASHI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{KAKASHI-MD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{techlord01}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{KAKASHI-MD}/count.svg" alt="soloLord201:: Visitor's Count" old_src="https://profile-counter.glitch.me/{techlord01}/count.svg" /></p>
 <p align="center">
 <a href="https://github.com/techlord01/KAKASHI-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KAKASHI-MD&label=VIEWS&style=flat-square&color=blue" />
@@ -39,15 +39,15 @@ src="https://qu.ax/biHjm.jpg"/>
 
 **How to deploy**
 
-**1. Fork This Repository**
+**1. 🍃🌀Fork This Repository**
 
-*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+*_🗡️🏂Shonens should start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
   <a href="https://github.com/techlord01/KAKASHI-MD/fork"><img title="KAKASHI-XD" src="https://img.shields.io/badge/FORK-KAKSHI-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
    
-**2. Second Step** 
+**2. 🗾🗡️🍀Second Step** 
 
-*_You will need a session ID to run the KAKASHI-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
+*_Hy there shonens 🌐You will need chakra or in other words session ID to run the KAKASHI-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
 <a href='https://kakashi-pair-85967d7e6e72.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
@@ -57,7 +57,7 @@ src="https://qu.ax/biHjm.jpg"/>
 <p align="centre">
 <a href='https://kakashi-pair-85967d7e6e72.herokuapp.com/qr' target="_blank"><img alt='Qr Code' src='https://img.shields.io/badge/-Get Qr Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
-**3. 2nd App session** 
+**3. 🗾🗡️🌀2nd App session** 
 
 [![Get Session ID APP](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://kakashi-pair-85967d7e6e72.herokuapp.com/)
 
@@ -68,31 +68,31 @@ src="https://qu.ax/biHjm.jpg"/>
 
 
 
-**Now Deploy to any hosting of ur choice**
+**Now Run🏂🗡️ to any hosting of ur choice**
 
-**1.Heroku Deploy**
+**1.Heroku Run🏃🌀**
 
 •If you don't have an account in Heroku, create one.
    <br>
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-**• 1.1 Now deploy.**
+**• 1.1 Now run🏃🌀.**
     <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techlord01/KAKASHI-MD-Heroku) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**2.⏏️ DEPLOY VIA RAILWAY**
+**2.🌀🗡️RUN VIA RAILWAY**
 
 [![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**3. Koyeb Deploy**
+**3. 🌀🗡️Koyeb Deploy**
 
 <p align="left">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=techlord01/KAKASHI-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%KAKASHI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
    
-**4. Render Deploy**
+**4. 🌀🗡️Render Deploy**
 
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FKAKASHI-MD)
@@ -179,17 +179,17 @@ jobs:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
- **❖ FOR SUPPORT ❖**
+ **❖ 🗞️⚙️FOR SUPPORT FOR SHONENS🌀🗡️❖**
  
 <details>
 
 
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+🗡️🌀 Shonens should stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
    <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🛡️🗡️ ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🌀🗡️" width="300"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -204,7 +204,7 @@ Stay connected with the latest updates and community by joining our official Wha
 <p style="text-align: center; font-size: 1.2em;">
   <strong>NB 🚫</strong><br>
    
-_ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ ᵃⁿᵈ ⁱ ᵐᵃˡᵛⁱⁿ ᵏⁱⁿᵍ  ᵒʷⁿˢ ᵗʰᵉ ᵇᵒᵗˢ ʳⁱᵍʰᵗˢ ᵃⁿᵈ ᶜᵒᵈᵉ ʳⁱᵍʰᵗˢ. ᵗʰᵉʳᵉᶠᵒʳᵉ, ʸᵒᵘ ʰᵃᵛᵉ ⁿᵒ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʰᵃⁿᵍᵉ ᵃⁿᵈ ˢᵘᵇᵐⁱᵗ ᵐʸ ᵇᵒᵗ ᵘⁿᵈᵉʳ ᵃⁿʸ ᶜⁱʳᶜᵘᵐˢᵗᵃⁿᶜᵉˢ._
+_ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ ᵃⁿᵈ ⁱ Project x  ᵒʷⁿˢ ᵗʰᵉ ᵇᵒᵗˢ ʳⁱᵍʰᵗˢ ᵃⁿᵈ ᶜᵒᵈᵉ ʳⁱᵍʰᵗˢ. ᵗʰᵉʳᵉᶠᵒʳᵉ, ʸᵒᵘ ʰᵃᵛᵉ ⁿᵒ ᶜʰᵃⁿᶜᵉ ᵗᵒ ᶜʰᵃⁿᵍᵉ ᵃⁿᵈ ˢᵘᵇᵐⁱᵗ ᵐʸ ᵇᵒᵗ ᵘⁿᵈᵉʳ ᵃⁿʸ ᶜⁱʳᶜᵘᵐˢᵗᵃⁿᶜᵉˢ._
 </p>
     
 ***
@@ -221,6 +221,6 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ## Feedback
-If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
+If you have any feedback, please reach out to us at domainexpansion207@gmail.com
 
-### <br> No LOVE 💕 NO STRESS ☺️
+### <br> To all Shonens Those that break the rules are schum but those that betray their friends are worse than schum 🌀🗡️
