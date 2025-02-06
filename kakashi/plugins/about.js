@@ -1,6 +1,6 @@
 /*
 Project Name : KAKASHI XMD
-Creator      : PROJECT X & ANDY( BLACK HAWK TEAM )
+Creator      : PROJECT X & MALVIN & NEXA & ANDY( BLACK HAWK TEAM )
 Repo         : https://github.com/Andyech/KAKASHI-MD
 Support      : wa.me/263788521064
 */
@@ -27,7 +27,7 @@ let madeMenu = `╭┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅�
 \n\n *ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀ ᴠɪsɪᴛ.....
      ─┄┄┄┅┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┄┄─
 
-> *SOURCE CODE* : https://github.com/Andyech/KAKASHI-MD
+> *SOURCE CODE* : https://github.com/techlord01/KAKASHI-MD
 
 > *FOLLOW OWNER* :https://github.com/SoloLord201/
 
@@ -36,7 +36,7 @@ let madeMenu = `╭┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅�
 > *maintained by* :
 https://wa.me/263788521064/?text=KAKASHI-xᴍᴅ+Fan+Here
 
-> *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029Vb1g3EVLY6d6W3Tq6H0Z
+> *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S
 
 > *FOLLOW INSTAGRAM* :https://instagram.com/malvinking20/
 
@@ -60,7 +60,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙼𝙳 』🪀 ',
+                        newsletterName: '🪀『 KAKASHI-𝚇𝙼𝙳 』🪀 ',
                         serverMessageId: 143
                     }
                 }
