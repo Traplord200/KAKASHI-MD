@@ -78,7 +78,7 @@ src="https://qu.ax/biHjm.jpg"/>
 
 **• 1.1 Now run🏃🌀.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techlord01/KAKASHI-MD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/techlord01/KAKASHI-MD.git) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 **2.🌀🗡️RUN VIA RAILWAY**
