@@ -32,10 +32,10 @@ OWNER_NAME: process.env.OWNER_NAME || "✦BLACK-HAWK-TEAM🪀✦",
 DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦BLACK-HAWK TEAM✦ ɪɴᴄ*",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/2fkqyz.jpg",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bddvfr.jpg",
+MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/2fkqyz.jpg",
 // dont change menu image
 
 LIVE_MSG: process.env.LIVE_MSG || "> ✦KAKASHI-X-MD✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦KAKASHI-X-MD✦ BLACK-HAWK TEAM ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Andyech/KAKASHI-MD",
