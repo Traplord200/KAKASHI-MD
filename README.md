@@ -19,7 +19,7 @@ src="https://qu.ax/biHjm.jpg"/>
  <p align="center">
 <a href="https://github.com/techlord01/followers"><img title="Followers" src="https://img.shields.io/github/followers/techlord01?color=purple&style=flat-square"></a>
 <a href="https://github.com/techlord01/KAKASHI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/techlord01/KAKASHI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/KAKASHI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/techlord01/KAKASHI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/techlord01/KAKASHI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/techlord01/KAKASHI-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/techlord01/KAKASHI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/techlord01/KAKASHI-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/techlord01/KAKASHI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/techlord01/KAKASHI-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechlord01%2FKAKASHI-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
