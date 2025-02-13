@@ -2,7 +2,7 @@ const config = require('../../settings')
 const { cmd, commands } = require('../command');
 
 cmd({
-    pattern: "list",
+    pattern: "menu2",
     alias: ["listcmd","commands"],
     desc: "menu the bot",
     category: "menu",
@@ -321,7 +321,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' },
+            audio: { url: 'https://github.com/SoloLord201/Kakashi-database/raw/refs/heads/main/Media/menu.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
