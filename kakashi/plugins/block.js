@@ -4,18 +4,18 @@ cmd({
     pattern: "block",
     desc: "Block a user.",
     category: "owner",
-    react: "🚫",
+    react: "🚷",
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, quoted, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
-    if (!quoted) return reply("❌ Please reply to the user you want to block.");
+    if (!isOwner) return reply("🚷Sorry little man but your not owner!");
+    if (!quoted) return reply("🏧 Please reply to the niggas message you want to block.");
 
     const user = quoted.sender;
     try {
         await conn.updateBlockStatus(user, 'block');
-        reply('🚫✦MALVIN MD✦ User ' + user + ' blocked successfully.');
+        reply('🚫✦KAKASHI MD✦ User ' + user + ' blocked successfully.');
     } catch (error) {
-        reply('❌ Error blocking user: ' + error.message);
+        reply('💀 fuck an error occurred while blocking user: ' + error.message);
     }
 });
