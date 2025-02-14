@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XMD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -17,9 +17,9 @@ const readMore = more.repeat(4001)
 cmd({
     pattern: "support",
     alias : "base",
-    desc: "malvin menu",
+    desc: "kakashi menu",
     category: "menu",
-    react: "📡",
+    react: "☪️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -27,7 +27,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 let dec = `    
 ╭──────────────≫
-┋*ᴄʀᴇᴀᴛᴏʀ* : *ᴍʀ ᴍᴀʟᴠɪɴ (🇿🇼)*
+┋*ᴄʀᴇᴀᴛᴏʀ* : *SIR PROJECT x (🇿🇼)*
 ┋*ᴍᴏᴅᴇ* : *${config.MODE}*
 ┋*ᴘʀᴇғɪx* : *${config.PREFIX}*
 ┋*ʀᴀᴍ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -36,24 +36,23 @@ let dec = `
 ┋
 ╰──────────────≫
    
-   ᎷᎪᏞᏙᏆΝ ХᎠ ՏႮᏢᏢϴᎡͲ ↷
+   Kakashi ХᎠ ՏႮᏢᏢϴᎡͲ ↷
 
 
 ${readMore}
 \`CHANNEL🩵\`
-https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S
 
 \`GROUP💙\` 👥
-https://chat.whatsapp.com/IVVhfV9ULdW250HRqKpiNe
-
+https://chat.whatsapp.com/DYTEBefKExOAm7lzIDUTQc
 \`YT CHANNEL\`🚀
 https://youtube.com/@malvintech2 
 
-\`Mr Ꮇalvin Ꮶing\` *Developer🧑‍💻*
-wa.me/263714757857?text=Support!
+\`Sir Project x\` *Developer🧑‍💻*
+wa.me/263788521064?text=Support!
 
 
-> 🚀ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ 🚀
+> ⚔️ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ ⚔️
 
 `;
 
@@ -84,4 +83,4 @@ await conn.sendMessage(
 
 
 
-//  MALVIN-XMD SC BY MR MALVIN K
+//  KAKASHI-XMD SC BY SIR PROJECT X
