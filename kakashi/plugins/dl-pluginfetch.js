@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XMD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -27,7 +27,7 @@ cmd({
     const _0xb13dc7 = ["Red", 'Green', "Blue", "Yellow", 'Orange', 'Purple', 'Pink', 'Brown', 'Black', "White", "Gray", "Cyan", "Magenta", 'Violet', "Indigo", "Teal", 'Lavender', "Turquoise"];
     const _0x256030 = '#' + Math.floor(Math.random() * 0xffffff).toString(0x10);
     const _0x5d0cef = _0xb13dc7[Math.floor(Math.random() * _0xb13dc7.length)];
-    _0x82e9b2("🎨 *\`MALVIN XMD RANDOM COLOUR:\`* \n\nColour Name: " + _0x5d0cef + "\nCode: " + _0x256030);
+    _0x82e9b2("🎨 *\`KAKASHI  XMD RANDOM COLOUR:\`* \n\nColour Name: " + _0x5d0cef + "\nCode: " + _0x256030);
   } catch (_0x563257) {
     console.error("Error in .randomcolor command:", _0x563257);
     _0x82e9b2("❌ An error occurred while generating the random color.");
@@ -75,7 +75,7 @@ cmd({
     const _0x26dbbd = _0x1e16b2.split(" ").map(_0x1bbd2b => {
       return String.fromCharCode(parseInt(_0x1bbd2b, 0x2));
     }).join('');
-    _0x1fc9a9("*\`Malvin Decoded Text:\`* \n\n" + _0x26dbbd);
+    _0x1fc9a9("*\`KAKASHI Decoded Text:\`* \n\n" + _0x26dbbd);
   } catch (_0xbe47d3) {
     console.error("Error in .binarydecode command:", _0xbe47d3);
     _0x1fc9a9("❌ An error occurred while decoding the binary string.");
@@ -119,7 +119,7 @@ cmd({
     }
     const _0x5c819 = _0x4fb23d.join(" ");
     const _0x529359 = Buffer.from(_0x5c819, "base64").toString("utf-8");
-    _0xe552ef("*\`Malvin Decoded Text:\`* \n\n" + _0x529359);
+    _0xe552ef("*\`Kakashi Decoded Text:\`* \n\n" + _0x529359);
   } catch (_0x28b6de) {
     console.error("Error in .decode command:", _0x28b6de);
     _0xe552ef("❌ An error occurred while decoding the Base64 text.");
