@@ -62,7 +62,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' }, // Audio URL
+            audio: { url: 'https://github.com/SoloLord/Kakashi-database/raw/refs/heads/main/Media/menu.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
