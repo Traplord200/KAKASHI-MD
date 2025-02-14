@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XMD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -67,7 +67,7 @@ cmd({
             document: { url: downloadLink },
             mimetype: mimeType,
             fileName: fileName,
-            caption: `📦 *File Name:* ${fileName}\n\n> 🚀ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴍᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ 🚀`
+            caption: `📦 *File Name:* ${fileName}\n\n> 🚀ᴊᴏɪɴ KAKASHI xᴍᴅ BLACK HAWKS ᴄʜᴀɴɴᴇʟ 🚀`
           }, { quoted: m });
           return;
         } else {
