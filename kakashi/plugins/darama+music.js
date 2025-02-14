@@ -1,9 +1,9 @@
 
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XMD
+Creator      : Malvin King 
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -27,7 +27,7 @@ const url = data.url
     
 let desc = `
 ╭─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╮
-  *ᴍaʟᴠɪɴ ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+  *KAKASHI ᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╯
 
 ➥ *ᴛɪᴛʟᴇ:* ${data.title} 
@@ -39,7 +39,7 @@ let desc = `
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅◊
  
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ ᴛᴇᴄʜ*
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ BLACK HAWKS ᴛᴇᴄʜ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
