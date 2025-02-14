@@ -52,7 +52,7 @@ cmd({
       }
     }
   } catch (_0x56bda5) {
-    console.error("✦ᴍᴀʟᴠɪɴ xᴅ✦ Error in TikTok command:", _0x56bda5);
-    _0x2303a0("✦ᴍᴀʟᴠɪɴ xᴅ✦ An error occurred while processing your request. Please try again later.");
+    console.error("✦KASHI xᴅ✦ Damn an Error in TikTok command:", _0x56bda5);
+    _0x2303a0("✦KASHI  xᴅ✦ My bad an error occurred while processing your request. Please try again later.");
   }
 });
