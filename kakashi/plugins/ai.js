@@ -38,7 +38,7 @@ cmd({
 }) => {
   try {
     if (!_0xdc7637) {
-      return _0x2a2a5e("Please ask Malvin a question or provide input for the AI.");
+      return _0x2a2a5e("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0xc308df = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0xdc7637);
     console.log(_0xc308df);
@@ -84,7 +84,7 @@ cmd({
 }) => {
   try {
     if (!_0x12c0d9) {
-      return _0x36d409("Please ask Malvin a question or provide input for the AI.");
+      return _0x36d409("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x367956 = await fetchJson("https://pikabotzapi.vercel.app/ai/mistral/?apikey=anya-md&message=" + _0x12c0d9);
     console.log(_0x367956);
@@ -100,7 +100,7 @@ cmd({
 cmd({
   'pattern': 'gpt3',
   'alias': ['gptturbo', "chatgpt3"],
-  'react': '😇',
+  'react': '🐺',
   'desc': "AI chat.",
   'category': "main",
   'filename': __filename
@@ -130,7 +130,7 @@ cmd({
 }) => {
   try {
     if (!_0x577d9a) {
-      return _0x30e11f("Please ask Malvin a question or provide input for the AI.");
+      return _0x30e11f("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x2d5c9f = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt3?text=" + _0x577d9a);
     console.log(_0x2d5c9f);
@@ -176,23 +176,23 @@ cmd({
 }) => {
   try {
     if (!_0x45a1c2) {
-      return _0x3a5766("Please ask Malvin a question or provide input for the AI.");
+      return _0x3a5766("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x4e7058 = await fetchJson('https://api.davidcyriltech.my.id/ai/gpt4omini?text=' + _0x45a1c2);
     console.log(_0x4e7058);
     if (!_0x4e7058.message) {
       return _0x3a5766("No response from the AI.");
     }
-    return _0x3a5766("🤖 *Malvin CHATGPT 4:*\n\n" + _0x4e7058.message);
+    return _0x3a5766("🤖 *Kakashi CHATGPT 4:*\n\n" + _0x4e7058.message);
   } catch (_0x5b4b01) {
     console.error(_0x5b4b01);
     _0x3a5766("An error occurred: " + _0x5b4b01.message);
   }
 });
 cmd({
-  'pattern': 'llama3',
+  'pattern': 'llama3🗡️',
   'alias': ['llama', 'model3'],
-  'react': '✅',
+  'react': '🍷',
   'desc': "AI chat.",
   'category': "main",
   'filename': __filename
@@ -229,16 +229,16 @@ cmd({
     if (!_0x29a2d3.message) {
       return _0x57b9cd("No response from the AI.");
     }
-    return _0x57b9cd("🤖 *NEXUS LLAM AI:*\n\n" + _0x29a2d3.message);
+    return _0x57b9cd("🤖 *BLACK HAWKS LLAM AI:*\n\n" + _0x29a2d3.message);
   } catch (_0x17e04d) {
     console.error(_0x17e04d);
     _0x57b9cd("An error occurred: " + _0x17e04d.message);
   }
 });
 cmd({
-  'pattern': "malvin",
-  'alias': ['meta', "bot", "llama2"],
-  'react': '🔄',
+  'pattern': "kakashi",
+  'alias': ['kashi', "kakashi", "llama2"],
+  'react': '🍷',
   'desc': "AI chat.",
   'category': "main",
   'filename': __filename
@@ -268,14 +268,14 @@ cmd({
 }) => {
   try {
     if (!_0x1f9184) {
-      return _0x4ee22a("Please ask Malvin a question or provide input for the AI.");
+      return _0x4ee22a("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0xd0e8ec = await fetchJson("https://api.davidcyriltech.my.id/ai/metaai?text=" + _0x1f9184);
     console.log(_0xd0e8ec);
     if (!_0xd0e8ec.message) {
       return _0x4ee22a("No response from the AI.");
     }
-    return _0x4ee22a("🤖 * NEXUS META AI:*\n\n" + _0xd0e8ec.message);
+    return _0x4ee22a("🤖 * BLACK HAWKS META AI:*\n\n" + _0xd0e8ec.message);
   } catch (_0x5d8d3a) {
     console.error(_0x5d8d3a);
     _0x4ee22a("An error occurred: " + _0x5d8d3a.message);
@@ -314,7 +314,7 @@ cmd({
 }) => {
   try {
     if (!_0x33edcf) {
-      return _0x25d133("Please ask Malvin a question or provide input for the AI.");
+      return _0x25d133("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x304125 = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0x33edcf);
     console.log(_0x304125);
@@ -330,7 +330,7 @@ cmd({
 cmd({
   'pattern': "gemini",
   'alias': ["bard", "bing"],
-  'react': '⏳',
+  'react': '🌐',
   'desc': "AI chat.",
   'category': "main",
   'filename': __filename
@@ -360,14 +360,14 @@ cmd({
 }) => {
   try {
     if (!_0x2422d7) {
-      return _0x561708("Please ask Malvin a question or provide input for the AI.");
+      return _0x561708("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x54eb09 = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0x2422d7);
     console.log(_0x54eb09);
     if (!_0x54eb09.message) {
       return _0x561708("No response from the AI.");
     }
-    return _0x561708("🤖 *NEXUS GOOGLE AI:*\n\n" + _0x54eb09.message);
+    return _0x561708("🤖 *BLACK HAWKS GOOGLE AI:*\n\n" + _0x54eb09.message);
   } catch (_0x5a0201) {
     console.error(_0x5a0201);
     _0x561708("An error occurred: " + _0x5a0201.message);
