@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI XD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -17,20 +17,20 @@ cmd({
     alias: ["sc", "script"],
     desc: "Info about the bot repository",
     category: "main",
-    react: "🗂️",
+    react: "⛸️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
    
  
  try {
-        let dec = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
+        let dec = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 KAKASHI 𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
 
-*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑈𝑠𝑖𝑛𝑔 𝑴𝒂𝒍𝒗𝒊𝒏 𝑿𝑴𝑫 🫶* 
+*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑈𝑠𝑖𝑛𝑔 KAKASHI 𝑿𝑴𝑫 🫶* 
 
 > Don't forget to star & fork the repo🌟🍴
 
-https://github.com/kingmalvn/MALVIN-XD
+https://github.com/techlord01/KAKASHI-MD
 ──────────────────
 '`;
 
@@ -67,7 +67,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/kingmalvn/MALVIN-XD';
+    const githubRepoURL = 'https://github.com/techlord01/KAKASHI-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -83,24 +83,24 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
+        const formattedInfo = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 KAKASHI 𝐗𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
 
 
-*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 𝑴𝑨𝑳𝑽𝑰𝑵 𝑿𝑫🌹🫶* 
+*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 KAKASHI 𝑿𝑫⛸️🫶* 
 
 ╭───────────────━⊷
-║ 🚀 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐈𝐍𝐅𝐎 🚀
+║ 🗡️ KAKASHO 𝐗𝐃 BIO 🐺
 ╰───────────────━⊷
 ╭───────────────━⊷
-┊💡 *ɴᴀᴍᴇ:* *ᴍᴀʟᴠɪɴ xᴅ*
-┊🍴 *ᴅᴀɪʟʏ ᴜsᴇʀs:* ${repoData.forks_count}
+┊⚔️ *ɴᴀᴍᴇ:* *KAKASHI xᴅ*
+┊⚔️ *ᴅᴀɪʟʏ ᴜsᴇʀs:* ${repoData.forks_count}
 ┊👤 *ᴏᴡɴᴇʀ:* sɪʀ ${repoData.owner.login}
-┊❗ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ:* ${repoData.description || 'No description'}
+┊⚔️ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ:* ${repoData.description || 'No description'}
 ╰───────────────━⊷
 
 > ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴
 
-║ ʀᴇᴘᴏ ʟɪɴᴋ: https://github.com/kingmalvn/MALVIN-XD 
+║ ʀᴇᴘᴏ ʟɪɴᴋ: https://github.com/techlord01/KAKASHI-MD
 ╰───────────────━⊷
 
 > sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀ ғᴀɴᴛᴀsᴛɪᴄ ᴜᴘᴅᴀᴛᴇs!`;
@@ -115,7 +115,7 @@ async (conn, mek, m, { from, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: 'ᴍᴀʟᴠɪɴ xᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ',
+                        newsletterName: 'KAKASHI xᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ',
                         serverMessageId: 143
                 }
             }
