@@ -29,7 +29,7 @@ cmd({
         'image': {
           'url': _0x5d4b91
         },
-        'caption': "NEXUS TECH SUGGESTS: 👨 Male Couple Profile Picture"
+        'caption': "BLACK HAWKS TECH SUGGESTS: 👨 Male Couple Profile Picture"
       }, {
         'quoted': _0x51cf3f
       });
@@ -39,7 +39,7 @@ cmd({
         'image': {
           'url': _0x5a1e4a
         },
-        'caption': "NEXUS TECH SUGGESTS: 👩 Female Couple Profile Picture"
+        'caption': "BLAKE HAWKS TECH SUGGESTS: 👩 Female Couple Profile Picture"
       }, {
         'quoted': _0x51cf3f
       });
