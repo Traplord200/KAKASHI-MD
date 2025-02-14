@@ -53,7 +53,7 @@ cmd({
     }
     _0x2a55b1.react('⬇️');
     let _0x3f9407 = await downloadTiktok(_0x11bfff);
-    let _0x4f6891 = "╭━━━〔 *✦MALVIN XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *TIKTOK DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Title* - " + _0x3f9407.result.title + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1*     ┃  *SD Quality*\n┃▸┃๏ *2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *3*     ┃  *Audio*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*";
+    let _0x4f6891 = "╭━━━〔 *✦KAKASHI XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *TIKTOK DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Title* - " + _0x3f9407.result.title + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1*     ┃  *SD Quality*\n┃▸┃๏ *2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *3*     ┃  *Audio*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*";
     const _0x29dff7 = await _0x17ba40.sendMessage(_0x2af3cb, {
       'image': {
         'url': _0x3f9407.result.image
@@ -165,7 +165,7 @@ cmd({
       }
     });
     const _0xba6170 = await facebook(_0x32da14);
-    const _0x8af79d = "╭━━━〔 *✦MALVIN XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *FB DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Duration* - " + _0xba6170.result.duration + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1.1*     ┃  *SD Quality*\n┃▸┃๏ *1.2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *2.1*     ┃  *Audio*\n┃▸┃๏ *2.2*     ┃  *Document*\n┃▸┃๏ *2.3*     ┃  *Voice*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS ♡*";
+    const _0x8af79d = "╭━━━〔 *✦KAKASHI XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *FB DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *Duration* - " + _0xba6170.result.duration + " \n╰━━━❐━⪼\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1.1*     ┃  *SD Quality*\n┃▸┃๏ *1.2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *2.1*     ┃  *Audio*\n┃▸┃๏ *2.2*     ┃  *Document*\n┃▸┃๏ *2.3*     ┃  *Voice*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT ♡*";
     const _0x1e4914 = await _0x463020.sendMessage(_0xd59c39, {
       'image': {
         'url': _0xba6170.result.thumbnail
@@ -202,7 +202,7 @@ cmd({
             'video': {
               'url': _0x3f9d82.links.SD
             },
-            'caption': "*© Powered Bʏ Nexus*"
+            'caption': "*© Powered Bʏ PROJECT*"
           }, {
             'quoted': _0x3ddaca
           });
@@ -212,7 +212,7 @@ cmd({
               'video': {
                 'url': _0x3f9d82.links.HD
               },
-              'caption': "*© Powered Bʏ NEXUS*"
+              'caption': "*© Powered Bʏ PROJECT*"
             }, {
               'quoted': _0x3ddaca
             });
@@ -234,7 +234,7 @@ cmd({
                   },
                   'mimetype': "audio/mpeg",
                   'fileName': "NEXUS/FBDL.mp3",
-                  'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*"
+                  'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*"
                 }, {
                   'quoted': _0x3ddaca
                 });
@@ -318,7 +318,7 @@ cmd({
       'image': {
         'url': _0x5b0a7a
       },
-      'caption': "╭━━━〔 *✦MALVIN XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *TWITTER DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1.1*     ┃  *SD Quality*\n┃▸┃๏ *1.2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *2.1*     ┃  *Audio*\n┃▸┃๏ *2.2*     ┃  *Document*\n┃▸┃๏ *2.3*     ┃  *Voice*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS-Aɪ ♡*"
+      'caption': "╭━━━〔 *✦KAKASHI XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *TWITTER DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━❮ *Download Video* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *1.1*     ┃  *SD Quality*\n┃▸┃๏ *1.2*     ┃  *HD Quality*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n╭━❮ *Download Audio* ❯━┈⊷\n┃▸╭─────────────·๏\n┃▸┃๏ *2.1*     ┃  *Audio*\n┃▸┃๏ *2.2*     ┃  *Document*\n┃▸┃๏ *2.3*     ┃  *Voice*\n┃▸└────────────┈⊷\n╰━━━━━━━━━━━━━━━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT-Aɪ ♡*"
     }, {
       'quoted': _0x5e34ab
     });
@@ -343,7 +343,7 @@ cmd({
             'video': {
               'url': _0x10c016
             },
-            'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*"
+            'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*"
           }, {
             'quoted': _0x4da097
           });
@@ -353,7 +353,7 @@ cmd({
               'video': {
                 'url': _0x51b7f4
               },
-              'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*"
+              'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*"
             }, {
               'quoted': _0x4da097
             });
@@ -374,8 +374,8 @@ cmd({
                     'url': _0x10c016
                   },
                   'mimetype': "audio/mpeg",
-                  'fileName': "NEXUS/TWDL.mp3",
-                  'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*"
+                  'fileName': "PROJECT/TWDL.mp3",
+                  'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*"
                 }, {
                   'quoted': _0x4da097
                 });
@@ -445,7 +445,7 @@ cmd({
     const _0x10a817 = _0x2a62ec.result.fileName || "mediafire_download";
     const _0x259baa = _0x2a62ec.result.fileType || "application/octet-stream";
     _0x1d4064.react('⬆️');
-    let _0x4ad462 = "╭━━━〔 *✦MALVIN XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *MFIRE DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *File Name* - " + _0x10a817 + " \n┇๏ *File Type* - " + _0x259baa + " \n╰━━━❐━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*";
+    let _0x4ad462 = "╭━━━〔 *✦KAKASHI XD✦* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *MFIRE DOWNLOADER*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━━❐━⪼\n┇๏ *File Name* - " + _0x10a817 + " \n┇๏ *File Type* - " + _0x259baa + " \n╰━━━❐━⪼\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*";
     await _0xc60242.sendMessage(_0x3eb310, {
       'document': {
         'url': _0x338997
@@ -508,7 +508,7 @@ cmd({
           'url': _0x495822
         },
         'mimetype': 'video/mp4',
-        'caption': "> *© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS*"
+        'caption': "> *© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT*"
       }, {
         'quoted': _0x489a1e
       });
@@ -1042,7 +1042,7 @@ cmd({
                       'mentionedJid': [],
                       'externalAdReply': {
                         'title': _0x5469b6.title,
-                        'body': "Download powered by NEXUS-ai",
+                        'body': "Download powered by PROJECT-ai",
                         'mediaType': 0x1,
                         'sourceUrl': _0xa22e01.link,
                         'thumbnailUrl': _0x5469b6.image
@@ -1132,7 +1132,7 @@ cmd({
         },
         'mimetype': _0x530ff0.data.result.mimetype,
         'fileName': _0x530ff0.data.result.fileName,
-        'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ NEXUS"
+        'caption': "*© Pᴏᴡᴇʀᴇᴅ Bʏ PROJECT"
       }, {
         'quoted': _0x13f4cd
       });
