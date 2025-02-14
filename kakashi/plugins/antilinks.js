@@ -14,7 +14,7 @@ cmd({
   sender: _0x3b237f
 }) => {
   try {
-    const _0x1941d2 = ["wtf", 'mia', 'xxx', "fuck", "sex", "huththa", "pakaya", 'ponnaya', "hutto"];
+    const _0x1941d2 = ["wtf", 'mia', 'xxx', "fuck", "sex", "pussy", "dick", 'bitch', "asshole"];
     if (!_0x1cdddd || _0x1fba1f || !_0x5b2f1a) {
       return;
     }
@@ -27,14 +27,14 @@ cmd({
         'quoted': _0x24465d
       });
       await _0x970702.sendMessage(_0x9c89df, {
-        'text': "🚫 ⚠️✦ᴍᴀʟᴠɪɴ xᴅ✦ BAD WORDS NOT ALLOWED⚠️ 🚫"
+        'text': "🚫 ⚔️✦KAKASHI Mᴅ✦ Wow Wow Cool down there the bad word you used was not appropriate so deleted⚔️ 🚫"
       }, {
         'quoted': _0x24465d
       });
     }
   } catch (_0x9accfa) {
     console.error(_0x9accfa);
-    _0x194363("An error occurred while processing the message.");
+    _0x194363("damn my bad l couldn't process the message.");
   }
 });
 const linkPatterns = [/https?:\/\/(?:chat\.whatsapp\.com|wa\.me)\/\S+/gi, /^https?:\/\/(www\.)?whatsapp\.com\/channel\/([a-zA-Z0-9_-]+)$/, /wa\.me\/\S+/gi, /https?:\/\/(?:t\.me|telegram\.me)\/\S+/gi, /https?:\/\/(?:www\.)?youtube\.com\/\S+/gi, /https?:\/\/youtu\.be\/\S+/gi, /https?:\/\/(?:www\.)?facebook\.com\/\S+/gi, /https?:\/\/fb\.me\/\S+/gi, /https?:\/\/(?:www\.)?instagram\.com\/\S+/gi, /https?:\/\/(?:www\.)?twitter\.com\/\S+/gi, /https?:\/\/(?:www\.)?tiktok\.com\/\S+/gi, /https?:\/\/(?:www\.)?linkedin\.com\/\S+/gi, /https?:\/\/(?:www\.)?snapchat\.com\/\S+/gi, /https?:\/\/(?:www\.)?pinterest\.com\/\S+/gi, /https?:\/\/(?:www\.)?reddit\.com\/\S+/gi, /https?:\/\/ngl\/\S+/gi, /https?:\/\/(?:www\.)?discord\.com\/\S+/gi, /https?:\/\/(?:www\.)?twitch\.tv\/\S+/gi, /https?:\/\/(?:www\.)?vimeo\.com\/\S+/gi, /https?:\/\/(?:www\.)?dailymotion\.com\/\S+/gi, /https?:\/\/(?:www\.)?medium\.com\/\S+/gi];
@@ -61,7 +61,7 @@ cmd({
         'quoted': _0x19a450
       });
       await _0x1b2472.sendMessage(_0x150463, {
-        'text': "Links are not allowed in this group by Malvin Tech.\n@" + _0x25352b.split('@')[0x0] + " has been removed. 🚫",
+        'text': "hold your horses there miss or sir whatever but links ain't allowed in this group Black Hawks Tech.\n@" + _0x25352b.split('@')[0x0] + " has been removed. 🚫",
         'mentions': [_0x25352b]
       }, {
         'quoted': _0x19a450
@@ -70,6 +70,6 @@ cmd({
     }
   } catch (_0xb3fe71) {
     console.error(_0xb3fe71);
-    _0x23871c("An error occurred while processing the message.");
+    _0x23871c("damn my bad somehow am error occurred while processing the message.");
   }
 });
