@@ -53,7 +53,7 @@ cmd({
       }
     }
     if (!_0x1759df.quoted) {
-      return _0x5545e9("Please reply to a ViewOnce message.");
+      return _0x5545e9("hy sup just wanted to remind you u need to replie to view once message.");
     }
     if (_0x1759df.quoted.mtype === "viewOnceMessage") {
       if (_0x1759df.quoted.message.imageMessage) {
