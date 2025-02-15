@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -45,7 +45,7 @@ cmd({
   try {
     if (!q) return reply('Please provide a URL to shorten.');
 
-    await reply('> *Malvin Xd Processing...*');
+    await reply('> *KAKASHI MD Processing...*');
 
     let apiUrl = '';
     if (command === 'tiny' || command === 'tinyurl') {
@@ -59,7 +59,7 @@ cmd({
     const response = await fetchJson(apiUrl);
     const result = response.result;
 
-    const caption = ` \`MALVIN URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ 🚀 `;
+    const caption = ` \`Kakashi URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ 🚀 `;
 
     await conn.sendMessage(m.chat, { text: caption }, { quoted: m });
   } catch (error) {
