@@ -3,7 +3,7 @@ const os = require("os");
 const { runtime } = require('../functions');
 
 cmd({
-    pattern: "alive",
+    pattern: "kakashi",
     alias: ["status", "runtime", "uptime"],
     desc: "Check uptime and system status",
     category: "main",
@@ -16,13 +16,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const status = `*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
 
      *${pushname}*, am alive 
-*╭─────────────···▸*
-*┋▸* *ɴᴀᴍᴇ ʙᴏᴛ* : *⚔️ᴍᴀʟᴠɪɴ mᴅ ⚔️*
-*┋▸* *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
-*┋▸* *ʜᴏsᴛɴᴀᴍᴇ* : *[${os.hostname()}]*
-*┋▸* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+*╭─────────────···▸*🐺
+*┋▸* 🌐*ɴᴀᴍᴇ ʙᴏᴛ* : *⚔️KAKASHI MD ⚔️*
+*┋▸* 🌐*ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
+*┋▸* 🌐*ʜᴏsᴛɴᴀᴍᴇ* : *[${os.hostname()}]*
+*┋▸* 🌐*ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 *┋*
-*╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷*
+*╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷*🐺
 
 > sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀ ғᴀɴᴛᴀsᴛɪᴄ ᴜᴘᴅᴀᴛᴇs!`;
 
