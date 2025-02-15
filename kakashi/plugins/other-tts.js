@@ -1,8 +1,8 @@
 /*
-Project Name : NEXUS XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/NEXUS-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const translation = response.data.responseData.translatedText;
 
-        const translationMessage = `> *MALVIN XMD TRANSLATION*
+        const translationMessage = `> *KAKASHI MD𓃮 TRANSLATION*
 
 > 🔤 *Original*: ${textToTranslate}
 
@@ -45,7 +45,7 @@ async (conn, mek, m, { from, q, reply }) => {
         return reply(translationMessage);
     } catch (e) {
         console.log(e);
-        return reply("⚠️ An error occurred data while translating the your text. Please try again later🤕");
+        return reply("⚠️ Damn unfortunately l couldn't translate this");
     }
 });
 
@@ -54,7 +54,7 @@ cmd({
     pattern: "tts",
     desc: "download songs",
     category: "download",
-    react: "🚀",
+    react: "🚁",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
