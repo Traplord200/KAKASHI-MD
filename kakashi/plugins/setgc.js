@@ -63,7 +63,7 @@ cmd({
     _0x515443("Open time " + _0x29755d + " starting from now");
     setTimeout(() => {
       _0x34b3eb.groupSettingUpdate(_0x1979f2, "not_announcement");
-      _0x515443("> *NOW GROUP IS OPENED BY ɴᴇxᴜs ᴍᴅ*");
+      _0x515443("> *NOW GROUP IS OPENED BY Kakashi𓃠 ᴍᴅ*");
     }, _0x57d309);
     await _0x34b3eb.sendMessage(_0x1979f2, {
       'react': {
@@ -152,7 +152,7 @@ cmd({
 cmd({
   'pattern': 'tagadmin',
   'alais': ["tagadmins"],
-  'react': '🙀',
+  'react': '𓃮',
   'desc': "Tags all the admins in the group.",
   'category': 'group',
   'filename': __filename
@@ -184,15 +184,15 @@ cmd({
 }) => {
   try {
     if (!_0x3fcba9) {
-      return _0x35f506("This command is only for groups.");
+      return _0x35f506("This command is only for groups𓃮.");
     }
     if (!_0x575128) {
       return _0x35f506("Yah Command Srf Admins Ky Lya Hai !.");
     }
     if (_0x53ccdc.length === 0x0) {
-      return _0x35f506("There are no admins in this group.");
+      return _0x35f506("There are no admins in this group𓃮.");
     }
-    let _0x14ad67 = "*TAGGING ALL ADMINS IN THE GROUP 🔳:*\n\n";
+    let _0x14ad67 = "*TAGGING ALL ADMINS IN THE GROUP 𓃮🔳:*\n\n";
     for (let _0x166714 of _0x53ccdc) {
       _0x14ad67 += '@' + _0x166714.split('@')[0x0] + "\n";
     }
@@ -252,7 +252,7 @@ cmd({
     }
     await _0x188ee4.groupSettingUpdate(_0x5a0744.chat, "announcement");
     const _0x23264b = await _0x188ee4.sendMessage(_0x5a0744.chat, {
-      'text': "*GROUP CHAT MUTED BY ɴᴇxᴜs ᴛᴇᴄʜ🪀* 🔒"
+      'text': "*GROUP CHAT MUTED BY Black hawks tech🪀* 🔒"
     }, {
       'quoted': _0x2926d7
     });
@@ -312,7 +312,7 @@ cmd({
     }
     await _0x298fe1.groupSettingUpdate(_0x2602ac.chat, "not_announcement");
     const _0x74b371 = await _0x298fe1.sendMessage(_0x2602ac.chat, {
-      'text': "*GROUP CHAT UNMUTED BY ɴᴇxᴜs ᴛᴇᴄʜ🪀* 🔒"
+      'text': "*GROUP CHAT UNMUTED BY Black hawks ᴛᴇᴄʜ🪀* 🔒"
     }, {
       'quoted': _0x116d41
     });
@@ -436,7 +436,7 @@ cmd({
   'pattern': "setwelcome",
   'desc': "Set the welcome message for the group.",
   'category': "group",
-  'react': '👋',
+  'react': '🙋🏻‍♂️',
   'filename': __filename
 }, async (_0x38c266, _0x3173c4, _0x390a75, {
   from: _0x3f6a31,
@@ -481,7 +481,7 @@ cmd({
       },
       'caption': _0xd0a608
     });
-    await _0x4c430b("Welcome message has been set.");
+    await _0x4c430b("Welcome message has been set from now on l will welcome new members using provided info😁.");
   } catch (_0x416d4f) {
     console.log(_0x416d4f);
     _0x4c430b('' + _0x416d4f);
