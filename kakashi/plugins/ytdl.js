@@ -124,7 +124,7 @@ cmd({
     const _0x129327 = await yts(_0x3cc448);
     const _0x23a76a = _0x129327.videos[0x0];
     const _0x582c58 = _0x23a76a.url;
-    let _0x45b80b = "\n*MALVIN XD-MUSIC*\n❍ *ᴛɪᴛʟᴇ :* " + _0x23a76a.title + "\n❍ *ᴅᴜʀᴀᴛɪᴏɴ :* " + _0x23a76a.timestamp + "\n❍ *ᴠɪᴇᴡꜱ :* " + _0x23a76a.views + "\n❍ *ᴜᴘʟᴏᴀᴅ ᴏɴ :* " + _0x23a76a.ago + "\n*ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ 🎧*\n\n*1*     ┃  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ 📁*\n\n*2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\nNexus Tech ✻\n";
+    let _0x45b80b = "\n*Kakashi XD-MUSIC*\n❍ *ᴛɪᴛʟᴇ :* " + _0x23a76a.title + "\n❍ *ᴅᴜʀᴀᴛɪᴏɴ :* " + _0x23a76a.timestamp + "\n❍ *ᴠɪᴇᴡꜱ :* " + _0x23a76a.views + "\n❍ *ᴜᴘʟᴏᴀᴅ ᴏɴ :* " + _0x23a76a.ago + "\n*ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ 🎧*\n\n*1*     ┃  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ 📁*\n\n*2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\nNexus Tech ✻\n";
     const _0x50e748 = await _0x10bab0.sendMessage(_0x4638f9, {
       'image': {
         'url': _0x23a76a.thumbnail
@@ -137,14 +137,14 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363306168354073@newsletter",
-          'newsletterName': "Nexus Tech ✻",
+          'newsletterName': "Black hawks Tech ✻",
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
           'title': "NEXUS TECH",
           'body': "NEXUS-MD-MUSIC",
           'mediaType': 0x1,
-          'sourceUrl': 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z',
+          'sourceUrl': 'https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S',
           'thumbnailUrl': "https://files.catbox.moe/bddvfr.jpg",
           'renderLargerThumbnail': false,
           'showAdAttribution': true
@@ -189,12 +189,12 @@ cmd({
               'isForwarded': true,
               'forwardedNewsletterMessageInfo': {
                 'newsletterJid': "120363306168354073@newsletter",
-                'newsletterName': "Nexus Tech ✻",
+                'newsletterName': "Black hawks Tech ✻",
                 'serverMessageId': 0x3e7
               },
               'externalAdReply': {
-                'title': "Nexus Tech",
-                'body': "Nexus Tech",
+                'title': "Black hawks Tech",
+                'body': "Black hawks Tech",
                 'mediaType': 0x1,
                 'sourceUrl': _0x23a76a.url,
                 'thumbnailUrl': _0x23a76a.thumbnail,
@@ -226,7 +226,7 @@ cmd({
               },
               'mimetype': "audio/mp3",
               'fileName': _0x23a76a.title + '.mp3',
-              'caption': "\n> *© Powered By Nexus Tech*\n ",
+              'caption': "\n> *© Powered By Black hawks Tech*\n ",
               'contextInfo': {
                 'mentionedJid': ["263000000000@s.whatsapp.net"],
                 'groupMentions': [],
@@ -234,12 +234,12 @@ cmd({
                 'isForwarded': true,
                 'forwardedNewsletterMessageInfo': {
                   'newsletterJid': "120363284845910703@newsletter",
-                  'newsletterName': "Malvin Tech ✻",
+                  'newsletterName': "Black hawks Tech ✻",
                   'serverMessageId': 0x3e7
                 },
                 'externalAdReply': {
-                  'title': "NEXUS TECH",
-                  'body': 'NEXUS-MD-MUSIC',
+                  'title': "Black hawks TECH",
+                  'body': 'Kakashi-MD-MUSIC',
                   'mediaType': 0x1,
                   'sourceUrl': _0x23a76a.url,
                   'thumbnailUrl': _0x23a76a.thumbnail,
@@ -319,14 +319,14 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363306168354073@newsletter",
-          'newsletterName': "Nexus Tech ✻",
+          'newsletterName': "Black hawks Tech ✻",
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
-          'title': "Nexus Tech",
-          'body': "NEXUS-MD-MUSIC",
+          'title': "Black hawks Tech",
+          'body': "KAKASHI-MD-MUSIC",
           'mediaType': 0x1,
-          'sourceUrl': "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z",
+          'sourceUrl': "https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S",
           'thumbnailUrl': "https://files.catbox.moe/bddvfr.jpg",
           'renderLargerThumbnail': false,
           'showAdAttribution': true
@@ -374,12 +374,12 @@ cmd({
               'isForwarded': true,
               'forwardedNewsletterMessageInfo': {
                 'newsletterJid': "120363306168354073@newsletter",
-                'newsletterName': "Nexus Tech ✻",
+                'newsletterName': "Black hawks Tech ✻",
                 'serverMessageId': 0x3e7
               },
               'externalAdReply': {
-                'title': "Nexus Tech",
-                'body': "NEXUS-MD-MUSIC",
+                'title': "Black hawks Tech",
+                'body': "kakashi-MD-MUSIC",
                 'mediaType': 0x1,
                 'sourceUrl': _0x2ff49f.url,
                 'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -412,7 +412,7 @@ cmd({
               'video': {
                 'url': _0x445074
               },
-              'caption': "\n> *© Powered By Nexus Tech*\n",
+              'caption': "\n> *© Powered By Black hawks Tech*\n",
               'contextInfo': {
                 'mentionedJid': ["263000000000@s.whatsapp.net"],
                 'groupMentions': [],
@@ -420,12 +420,12 @@ cmd({
                 'isForwarded': true,
                 'forwardedNewsletterMessageInfo': {
                   'newsletterJid': '120363306168354073@newsletter',
-                  'newsletterName': "Nexus Tech ✻",
+                  'newsletterName': "Black hawks Tech ✻",
                   'serverMessageId': 0x3e7
                 },
                 'externalAdReply': {
-                  'title': "NEXUS TECH",
-                  'body': "NEXUS-MD-MUSIC",
+                  'title': "Black hawks TECH",
+                  'body': "Kakashi-MD-MUSIC",
                   'mediaType': 0x1,
                   'sourceUrl': _0x2ff49f.url,
                   'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -458,7 +458,7 @@ cmd({
                 'video': {
                   'url': _0x2a0d05
                 },
-                'caption': "\n> *© Powered By Nexus Tech*\n",
+                'caption': "\n> *© Powered By Black hawks Tech*\n",
                 'contextInfo': {
                   'mentionedJid': ["263000000000@s.whatsapp.net"],
                   'groupMentions': [],
@@ -466,12 +466,12 @@ cmd({
                   'isForwarded': true,
                   'forwardedNewsletterMessageInfo': {
                     'newsletterJid': '120363306168354073@newsletter',
-                    'newsletterName': "Nexus Tech ✻",
+                    'newsletterName': "Black hawks Tech ✻",
                     'serverMessageId': 0x3e7
                   },
                   'externalAdReply': {
-                    'title': "Nexus Tech",
-                    'body': "NEXUS-MD-MUSIC",
+                    'title': "Black hawks Tech",
+                    'body': "kakashi-MD-MUSIC",
                     'mediaType': 0x1,
                     'sourceUrl': _0x2ff49f.url,
                     'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -504,7 +504,7 @@ cmd({
                   'video': {
                     'url': _0x1b7224
                   },
-                  'caption': "\n> *© Powered By ɴᴇxᴜs ᴛᴇᴄʜ🪀*\n"
+                  'caption': "\n> *© Powered By Black hawks ᴛᴇᴄʜ🪀*\n"
                 }, {
                   'quoted': _0xb2e6dd
                 });
@@ -532,7 +532,7 @@ cmd({
                     },
                     'mimetype': "video/mp4",
                     'fileName': _0x2ff49f.title + ".mp4",
-                    'caption': "\n> *© Powered By ɴᴇxᴜs ᴛᴇᴄʜ🪀*\n",
+                    'caption': "\n> *© Powered By Black hawks ᴛᴇᴄʜ🪀*\n",
                     'contextInfo': {
                       'mentionedJid': ["263000000000@s.whatsapp.net"],
                       'groupMentions': [],
@@ -540,12 +540,12 @@ cmd({
                       'isForwarded': true,
                       'forwardedNewsletterMessageInfo': {
                         'newsletterJid': "120363306168354073@newsletter",
-                        'newsletterName': "Nexus Tech ✻",
+                        'newsletterName': "Black hawks Tech ✻",
                         'serverMessageId': 0x3e7
                       },
                       'externalAdReply': {
-                        'title': "Nexus Tech",
-                        'body': "NEXUS-MD-MUSIC",
+                        'title': "Black hawks Tech",
+                        'body': "kakashi-MD-MUSIC",
                         'mediaType': 0x1,
                         'sourceUrl': _0x2ff49f.url,
                         'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -580,7 +580,7 @@ cmd({
                       },
                       'mimetype': "video/mp4",
                       'fileName': _0x2ff49f.title + ".mp4",
-                      'caption': "\n> *© Powered By Nexus Tech*\n",
+                      'caption': "\n> *© Powered By Black hawks Tech*\n",
                       'contextInfo': {
                         'mentionedJid': ["263000000000@s.whatsapp.net"],
                         'groupMentions': [],
@@ -588,12 +588,12 @@ cmd({
                         'isForwarded': true,
                         'forwardedNewsletterMessageInfo': {
                           'newsletterJid': "120363306168354073@newsletter",
-                          'newsletterName': "Nexus Tech ✻",
+                          'newsletterName': "Black hawks Tech ✻",
                           'serverMessageId': 0x3e7
                         },
                         'externalAdReply': {
-                          'title': "NEXUS TECH",
-                          'body': "NEXUS-MD-MUSIC",
+                          'title': "Black hawks TECH",
+                          'body': "Kakashi-MD-MUSIC",
                           'mediaType': 0x1,
                           'sourceUrl': _0x2ff49f.url,
                           'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -628,7 +628,7 @@ cmd({
                         },
                         'mimetype': "video/mp4",
                         'fileName': _0x2ff49f.title + '.mp4',
-                        'caption': "\n> *© Powered By ɴᴇxᴜs ᴛᴇᴄʜ🪀*\n",
+                        'caption': "\n> *© Powered By Black hawks ᴛᴇᴄʜ🪀*\n",
                         'contextInfo': {
                           'mentionedJid': ["263000000000@s.whatsapp.net"],
                           'groupMentions': [],
@@ -636,12 +636,12 @@ cmd({
                           'isForwarded': true,
                           'forwardedNewsletterMessageInfo': {
                             'newsletterJid': "120363306168354073@newsletter",
-                            'newsletterName': "Nexus Tech ✻",
+                            'newsletterName': "Black hawks Tech ✻",
                             'serverMessageId': 0x3e7
                           },
                           'externalAdReply': {
-                            'title': "Nexus Tech",
-                            'body': 'NEXUS-MD-MUSIC',
+                            'title': "Black hawks Tech",
+                            'body': 'Kakashi-MD-MUSIC',
                             'mediaType': 0x1,
                             'sourceUrl': _0x2ff49f.url,
                             'thumbnailUrl': _0x2ff49f.thumbnail,
@@ -676,7 +676,7 @@ cmd({
                           },
                           'mimetype': 'video/mp4',
                           'fileName': _0x2ff49f.title + ".mp4",
-                          'caption': "\n> *© Powered By Nexus Tech*\n",
+                          'caption': "\n> *© Powered By Black hawks Tech*\n",
                           'contextInfo': {
                             'mentionedJid': ["263000000000@s.whatsapp.net"],
                             'groupMentions': [],
@@ -684,12 +684,12 @@ cmd({
                             'isForwarded': true,
                             'forwardedNewsletterMessageInfo': {
                               'newsletterJid': "120363306168354073@newsletter",
-                              'newsletterName': "Nexus Tech ✻",
+                              'newsletterName': "Black hawks Tech ✻",
                               'serverMessageId': 0x3e7
                             },
                             'externalAdReply': {
-                              'title': "NEXUS Tech",
-                              'body': "NEXUS-MD-MUSIC",
+                              'title': "Black hawks Tech",
+                              'body': "Kakashi-MD-MUSIC",
                               'mediaType': 0x1,
                               'sourceUrl': _0x2ff49f.url,
                               'thumbnailUrl': _0x2ff49f.thumbnail,
