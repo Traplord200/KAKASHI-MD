@@ -24,15 +24,15 @@ cmd({
     }
     const _0x5ad0e2 = _0x541c7c.user.id.split(':')[0x0];
     if (_0x112bfc !== _0x5ad0e2) {
-      return _0x1cd54a("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\n】Only the bot owner can use this command.");
+      return _0x1cd54a("✦KAKASHI Mᴅ✦\n\n】hold your horses there only the bot owner can use this command.");
     }
     if (!_0x119769) {
-      return _0x1cd54a("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nI need to be an admin to execute this command❗.");
+      return _0x1cd54a("✦KAKHI MD✦\n\nI can't execute this role without getting admin role partner❗.");
     }
     const _0x27054b = _0x561a47.participants;
     const _0x59ce1d = _0x27054b.filter(_0x31bd1b => !_0x4abe0f.includes(_0x31bd1b.id));
     if (_0x59ce1d.length === 0x0) {
-      return _0x1cd54a("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nThere are no non-admin members to remove.");
+      return _0x1cd54a("✦KAKASHI MD✦\n\nThere are no non-admin members to remove.");
     }
     _0x1cd54a("Starting to remove " + _0x59ce1d.length + " non-admin members...");
     for (let _0x58a736 of _0x59ce1d) {
@@ -43,7 +43,7 @@ cmd({
         console.error("Failed to remove " + _0x58a736.id + ':', _0x448767);
       }
     }
-    _0x1cd54a("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nSuccessfully removed all non-admin members from the group.");
+    _0x1cd54a("✦KAKASHI Mᴅ✦\n\nSuccessfully removed all non-admin members from the group.");
   } catch (_0x2ffa0d) {
     console.error("Error removing non-admin users:", _0x2ffa0d);
     _0x1cd54a("An error occurred while trying to remove non-admin members. Please try again❗.");
@@ -67,7 +67,7 @@ cmd({
 }) => {
   try {
     if (!_0x437d8e) {
-      return _0x454a95("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nThis command can only be used in groups.❗");
+      return _0x454a95("✦KAKASHI MD✦\n\nBaka 🤦🏻‍♂️ this command can only be used in group .❗");
     }
     const _0x86850b = _0x2c9a95.user.id.split(':')[0x0];
     if (_0x39ac26 !== _0x86850b) {
@@ -90,7 +90,7 @@ cmd({
         console.error("Failed to remove " + _0x164699.id + ':', _0x1b4051);
       }
     }
-    _0x454a95("Successfully removed all admin members from the group, excluding the bot and bot owner 👾.");
+    _0x454a95("It was cold blooded but successfully removed all admin members from the group, excluding the bot and bot owner 👾.");
   } catch (_0x2a5e6b) {
     console.error("Error removing admins:", _0x2a5e6b);
     _0x454a95("An error occurred while trying to remove admins. Please try again❗.");
@@ -113,18 +113,18 @@ cmd({
 }) => {
   try {
     if (!_0x4daea3) {
-      return _0x477905("This command can only be used in groups.");
+      return _0x477905("Baka 🤦🏻‍♂️this command can only be used in groups.");
     }
     const _0x3fdab4 = _0x58df9b.user.id.split(':')[0x0];
     if (_0x270b3f !== _0x3fdab4) {
-      return _0x477905("Only the bot owner can use this command.");
+      return _0x477905("Baka 🤦🏻‍♂️ only the bot owner can use this command.");
     }
     if (!_0x1db97d) {
-      return _0x477905("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nI need to be an admin to execute this command❗.");
+      return _0x477905("✦KAKASHI MD✦\n\nI need to be an admin to execute this command❗.");
     }
     const _0x44e3d7 = _0x5289f6.participants;
     if (_0x44e3d7.length === 0x0) {
-      return _0x477905("The group has no members to remove❌.");
+      return _0x477905("Bro are you stupid or something there's no members to remove here.");
     }
     const _0x94c1ea = _0x44e3d7.filter(_0x29a3c7 => _0x29a3c7.id !== _0x58df9b.user.id && _0x29a3c7.id !== _0x3fdab4 + "@s.whatsapp.net");
     if (_0x94c1ea.length === 0x0) {
@@ -139,7 +139,7 @@ cmd({
         console.error("Failed to remove " + _0x447569.id + ':', _0x2fc4ea);
       }
     }
-    _0x477905("✦ᴍᴀʟᴠɪɴ xᴅ✦\n\nSuccessfully removed all members, excluding the bot and bot owner, from the group.");
+    _0x477905("✦KAKASHI MD✦\n\nIt was cold blooded but successfully removed all members, excluding the bot and bot owner, from the group.");
   } catch (_0x191e55) {
     console.error("Error removing members:", _0x191e55);
     _0x477905("An error occurred while trying to remove members. Please try again.");
