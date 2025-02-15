@@ -49,7 +49,7 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363306168354073@newsletter",
-          'newsletterName': "ᴍᴀʟᴠɪɴ xᴅ ɢɪᴛʜᴜʙ ᴄʟᴏɴᴇ💀",
+          'newsletterName': "Kakashi mᴅ ɢɪᴛʜᴜʙ ᴄʟᴏɴᴇ💀",
           'serverMessageId': 0x8f
         }
       }
