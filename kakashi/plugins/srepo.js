@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -50,14 +50,14 @@ cmd({
     const _0x1710d7 = "https://api.github.com/repos/" + _0x4316bb;
     const _0x5e6198 = await axios.get(_0x1710d7);
     const _0x3b32a2 = _0x5e6198.data;
-    let _0x5966d9 = "📁*𝑀𝐴𝐿𝑉𝐼𝑁 𝑋𝑀𝐷 𝐺𝐼𝑇𝐻𝑈𝐵 𝑅𝐸𝑃𝑂 𝐼𝑁𝐹𝑂*📁\n\n";
+    let _0x5966d9 = "📁*KAKASHI MD 𝐺𝐼𝑇𝐻𝑈𝐵 𝑅𝐸𝑃𝑂 𝐼𝑁𝐹𝑂*📁\n\n";
     _0x5966d9 += "📌 *ɴᴀᴍᴇ*: " + _0x3b32a2.name + "\n";
     _0x5966d9 += "🔗 *ᴜʀʟ*: " + _0x3b32a2.html_url + "\n";
     _0x5966d9 += "📝 *ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*: " + _0x3b32a2.description + "\n";
     _0x5966d9 += "⭐ *ꜱᴛᴀʀꜱ*: " + _0x3b32a2.stargazers_count + "\n";
     _0x5966d9 += "🍴 *ꜰᴏʀᴋꜱ*: " + _0x3b32a2.forks_count + "\n";
     _0x5966d9 += "\n";
-    _0x5966d9 += "> *© Powered By 𝑀𝑎𝑙𝑣𝑖𝑛 𝑋𝑚𝑑*\n";
+    _0x5966d9 += "> *© Powered By Black hawks 𝑋𝑚𝑑*\n";
     await _0x50251e.sendMessage(_0x4efb12, {
       'text': _0x5966d9
     }, {
