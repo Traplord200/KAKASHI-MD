@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -14,7 +14,7 @@ const axios = require("axios");
 cmd({
   pattern: "vidpro",
   alias: ["ytvidpro", "ytvpro", 'ytvideopro'],
-  react: '🚀',
+  react: '🌐',
   desc: "Download videos from YouTube by searching for keywords.",
   category: "video",
   use: ".vidx <keywords>",
@@ -26,7 +26,7 @@ cmd({
       return reply("*Please provide a video title or URL*");
     }
 
-    await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨..... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑊𝑎𝑖𝑡.....");
+    await reply("> KAKASHI MD 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨..... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑊𝑎𝑖𝑡.....");
     
     const results = await yts(query);
     if (!results.videos || results.videos.length === 0) {
@@ -37,7 +37,7 @@ cmd({
     const url = video.url;
     const apiURL = "https://api.davidcyriltech.my.id/youtube/mp4?url=" + url;
 
-    await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑊𝑎𝑖𝑡....");
+    await reply("> KAKASHI MD 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑊𝑎𝑖𝑡....");
 
     const response = await axios.get(apiURL);
     if (!response.data.success) {
@@ -45,7 +45,7 @@ cmd({
     }
 
     const downloadURL = response.data.result.download_url;
-    await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨... 𝑝𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...");
+    await reply("> KAKASHI MD 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨... 𝑝𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...");
     
     await conn.sendMessage(from, { video: { url: downloadURL }, mimetype: "video/mp4" }, { quoted: msg });
     
@@ -74,7 +74,7 @@ if (!query) {
 return reply("_Please provide an audio title or URL_");
 }
 
-await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐧𝐠... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...");
+await reply("> KAKASHI MD 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 𝐒𝐨𝐧𝐠... 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...");
 
 const results = await yts(query);
 if (!results.videos || results.videos.length === 0) {
@@ -85,7 +85,7 @@ const video = results.videos[0];
 const url = video.url;
 const apiURL = "https://api.davidcyriltech.my.id/youtube/mp3?url=" + url;
 
-await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠  𝐅𝐨𝐫 𝐒𝐨𝐧𝐠......");
+await reply("> KAKASHI MD 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠  𝐅𝐨𝐫 𝐒𝐨𝐧𝐠......");
 
 const response = await axios.get(apiURL);
 if (!response.data.success) {
@@ -93,7 +93,7 @@ if (!response.data.success) {
 }
 
 const downloadURL = response.data.result.download_url;
-await reply("> 𝐌𝐚𝐥𝐯𝐢𝐧 𝐗𝐦𝐝 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐧𝐠 ......");
+await reply("> KAKASHI MD 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐧𝐠 ......");
 
 await conn.sendMessage(from, { audio: { url: downloadURL }, mimetype: 'audio/mpeg', ptt: false }, { quoted: msg });
 
