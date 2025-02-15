@@ -55,7 +55,7 @@ cmd(
         filename: __filename,
     },
     async (conn, mek, m, { quoted, args, q, reply, from }) => {
-        if (!mek.quoted) return reply(`*Dont tempt Malvin, Reply to any Image or Video, Sir.*`);
+        if (!mek.quoted) return reply(`*Dont tempt kakashi, Reply to any Image or Video, Sir.*`);
         let mime = mek.quoted.mtype;
         let pack = Config.STICKER_NAME || "Nexus Tech";
         
