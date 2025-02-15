@@ -43,7 +43,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *╿⛸️ ➓ • TOOLS*
 *╰━━┉┉┉━━┉┉━┉┅┅┅┅┅⪼*⁠⁠
 
-*╰┈➤Hy there ᴡɪᴛʜ ᴛʜᴇ ɴᴜᴍʙᴇʀ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇʟᴇᴄᴛ*
+*╰┈➤Hy there replie ᴡɪᴛʜ ᴛʜᴇ ɴᴜᴍʙᴇʀ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇʟᴇᴄᴛ*
 
 > ${config.DESCRIPTION}`;
 
