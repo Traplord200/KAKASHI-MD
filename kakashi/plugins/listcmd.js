@@ -6,298 +6,297 @@ cmd({
     alias: ["listcmd","commands"],
     desc: "menu the bot",
     category: "menu",
-    react: "⚡",
+    react: "🔬",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = ` ⊷━❮ *DOWNLOAD CMD* ❯━┈⊷
-╭───────────────        
+        let dec = ` ⊷━❮ *🚁DOWNLOAD CMD🌐* ❯━┈⊷
+╭───────────────🌐       
 ┋▸
-┋▸📄 COMMAND: .play
-┋▸❕ Download Audio from yt
+┋▸🌐 COMMAND: .play
+┋▸❕ Download Audio from yt🗡️
 ┋▸ 
-┋▸📄 COMMAND: .song
-┋▸❕ Download song from yt
+┋▸🌐 COMMAND: .song
+┋▸❕ Download song from yt🗡️
 ┋▸ 
-┋▸📄 COMMAND: .apk
-┋▸❕ Download apk from playstore
+┋▸🌐 COMMAND: .apk
+┋▸❕ Download apk from playstore🗡️
 ┋▸ 
-┋▸📄 COMMAND: .video
-┋▸❕ Download video from yt
+┋▸🌐 COMMAND: .video
+┋▸❕ Download video from yt🗡️
 ┋▸ 
-┋▸📄 COMMAND: .fb
-┋▸❕ Download  video from fb
+┋▸🌐 COMMAND: .fb
+┋▸❕ Download  video from fb🗡️
 ┋▸ 
-┋▸📄 COMMAND: .tk
-┋▸❕ Download video from tiktok
+┋▸🌐 COMMAND: .tk
+┋▸❕ Download video from tiktok🗡️
 ┋▸ 
-┋▸📄 COMMAND: .ig
-┋▸❕ Download video from ig
+┋▸🌐 COMMAND: .ig
+┋▸❕ Download video from ig🗡️
 ┋▸ 
-┋▸📄 COMMAND: .gdrive
-┋▸❕ Download drive files
+┋▸🌐 COMMAND: .gdrive
+┋▸❕ Download drive files🗡️
 ┋▸ 
-┋▸📄 COMMAND: .twitter
-┋▸❕ Download video from Twitter
+┋▸🌐 COMMAND: .twitter
+┋▸❕ Download video from Twitter🗡️
 ┋▸
-┋▸📄 COMMAND: .img
-┋▸❕ Download image
+┋▸🌐 COMMAND: .img
+┋▸❕ Download image🗡️
 ┋▸
-┋▸📄 COMMAND: .darama
-┋▸❕ Download full episode video
+┋▸🌐 COMMAND: .darama
+┋▸❕ Download full episode video🗡️
 ┋▸
-┋▸📄 COMMAND: .play2
-┋▸❕ Download Audio from yt
+┋▸🌐 COMMAND: .play2
+┋▸❕ Download Audio from yt🗡️
 ┋▸ 
-┋▸📄 COMMAND: .video2
-┋▸❕ Download video from yt
+┋▸🌐 COMMAND: .video2
+┋▸❕ Download video from yt🗡️
 ┋▸ 
-┋▸📄 COMMAND: .baiscope
-┋▸❕ Download video from baiscope
+┋▸🌐 COMMAND: .baiscope
+┋▸❕ Download video from baiscope🗡️
 ┋▸ 
-┋▸📄 COMMAND: .mfire
-┋▸❕ Download mediafire files
-╰━━━━━━━━━━━━⪼ 
+┋▸🌐 COMMAND: .mfire
+┋▸❕ Download mediafire files🗡️
+╰━━━━━━━━━━━━⪼🚁⚔️
 
- ⊷┅┅❮ *ANMIE CMD* ❯━┈⊷
-╭─────────────
+ ⊷┅┅❮ *🌐ANMIE CMD🚁* ❯━┈⊷
+╭─────────────🌐
 ┋▸
-┋▸📄 COMMAND: .yts
-┋▸❕ Serch videos from yt
+┋▸🚁 COMMAND: .yts
+┋▸❕ Serch videos from yt🚁
 ┋▸
-┋▸📄 COMMAND: .king
-┋▸❕ get king about 
+┋▸🚁 COMMAND: .kakashi
+┋▸❕ get kakashi about 
 ┋▸
-┋▸📄 COMMAND: .dog
-┋▸❕ get random dog imgs
+┋▸🚁 COMMAND: .dog
+┋▸❕ get random dog imgs🔬
 ┋▸
-┋▸📄 COMMAND: .anime 
-┋▸❕ get anime pics
+┋▸🚁 COMMAND: .anime 
+┋▸❕ get anime pics🔬
 ┋▸
-┋▸📄 COMMAND: .waifu
-┋▸❕ get animegirl pics
+┋▸🚁 COMMAND: .waifu
+┋▸❕ get animegirl pics⛸️
 ┋▸
-┋▸📄 COMMAND: .loli
-┋▸❕ get romantic anime pics
+┋▸🚁 COMMAND: .loli
+┋▸❕ get romantic anime pics⛸️
 ╰━━━━━━━━━━━━⪼  
 
- ┅┅┅❮‍ *INFO CMD* ❯━┈⊷
-╭─────────────
+ ┅┅┅❮‍ *🚁INFO CMD🌐* ❯━┈⊷
+╭─────────────🌐
 ┋▸
-┋▸📄 COMMAND: .alive
-┋▸❕ Check online or not
+┋▸🚁 COMMAND: .alive
+┋▸❕ Check online or not🌐
 ┋▸  
-┋▸📄 COMMAND: .ping
-┋▸❕ Check bot speed
+┋▸🚁 COMMAND: .ping
+┋▸❕ Check bot speed🌐
 ┋▸  
-┋▸📄 COMMAND: .menu
-┋▸❕ Nero main menu
+┋▸🚁 COMMAND: .menu
+┋▸❕ Nero main menu🌐
 ┋▸ 
-┋▸📄 COMMAND: .allmenu
-┋▸❕ Nero main allmenu
+┋▸🚁 COMMAND: .allmenu
+┋▸❕ Nero main allmenu🌐
 ┋▸ 
-┋▸📄 COMMAND: .ai
-┋▸❕ chat with ai bot
+┋▸🚁 COMMAND: .ai
+┋▸❕ chat with ai bot🌐
 ┋▸
-┋▸📄 COMMAND: .system
-┋▸❕ check bot systems
+┋▸🚁 COMMAND: .system
+┋▸❕ check bot systems🌐
 ┋▸
-┋▸📄 COMMAND: .owner
-┋▸❕ get owner info
+┋▸🚁 COMMAND: .owner
+┋▸❕ get owner info🌐
 ┋▸ 
-┋▸📄 COMMAND: .status
-┋▸❕ check bot runtime
+┋▸🚁 COMMAND: .status
+┋▸❕ check bot runtime🌐
 ┋▸
-┋▸📄 COMMAND: .about 
-┋▸❕ get about bot 
+┋▸🚁 COMMAND: .about 
+┋▸❕ get about bot🌐
 ┋▸
-┋▸📄 COMMAND: .list 
-┋▸❕ get bot command list
+┋▸🚁 COMMAND: .list 
+┋▸❕ get bot command list🌐
 ┋▸
-┋▸📄 COMMAND: .script 
-┋▸❕ get bot repository 
+┋▸🚁 COMMAND: .script 
+┋▸❕ get bot repository🌐
 ╰━━━━━━━━━━━━⪼
 
  ⊷┅┅❮ *OTHER CMD* ❯┅┈⊷
-╭─────────────
+╭─────────────⛸️
 ┋▸
-┋▸📄 COMMAND: .joke 
+┋▸🚁 COMMAND: .joke 
 ┋▸❕ Get Rendom joke 
 ┋▸ 
-┋▸📄 COMMAND: .fact
+┋▸🚁 COMMAND: .fact
 ┋▸❕ Get Rendom fact
 ┋▸
-┋▸📄 COMMAND: .githubstalk 
+┋▸🚁 COMMAND: .githubstalk 
 ┋▸❕ Get github data any user
 ┋▸ 
-┋▸📄 COMMAND: .gpass
+┋▸🚁 COMMAND: .gpass
 ┋▸❕ Get a strong password 
 ┋▸
-┋▸📄 COMMAND: .hack
+┋▸🚁 COMMAND: .hack
 ┋▸❕ prank with friends 
 ┋▸
-┋▸📄 COMMAND: .srepo 
+┋▸🚁 COMMAND: .srepo 
 ┋▸❕ serch repository 
-┋▸
-┋▸📄 COMMAND: .define 
+┋▸🚁 COMMAND: .define 
 ┋▸❕ serch any words
-╰━━━━━━━━━━━━⪼
+╰━━━━━━━━━━━━⪼🌐
 
- ⊷┅┅❮ *GROUP CMD* ❯┅┈⊷
-╭─────────────
+ ⊷┅┅❮ *🚁GROUP CMD🌐* ❯┅┈⊷
+╭─────────────⛸️
 ┋▸
-┋▸📄 COMMAND: .mute
-┋▸❕ Mute group
+┋▸🚁 COMMAND: .mute
+┋▸❕ Mute group🌐
 ┋▸
-┋▸📄 COMMAND: .unmute
-┋▸❕ Unmute group
+┋▸🚁 COMMAND: .unmute
+┋▸❕ Unmute group🌐
 ┋▸
-┋▸📄 COMMAND: .left
-┋▸❕ left group
+┋▸🚁 COMMAND: .left
+┋▸❕ left group🌐
 ┋▸
-┋▸📄 COMMAND: .jid
-┋▸❕ group jid
+┋▸🚁 COMMAND: .jid
+┋▸❕ group jid🌐
 ┋▸
-┋▸📄 COMMAND: .remove
-┋▸❕ remove member from group
+┋▸🚁COMMAND: .remove
+┋▸❕ remove member from group🌐
 ┋▸
-┋▸📄 COMMAND: .delete 
-┋▸❕ remove sms from group 
+┋▸🚁 COMMAND: .delete 
+┋▸❕ remove sms from group 🌐
 ┋▸
-┋▸📄 COMMAND: .add
-┋▸❕ add members in group 
+┋▸🚁 COMMAND: .add
+┋▸❕ add members in group🌐 
 ┋▸
-┋▸📄 COMMAND: .kick
-┋▸❕ kick any user 
+┋▸🚁 COMMAND: .kick
+┋▸❕ kick any user🌐
 ┋▸
-┋▸📄 COMMAND: .kickall
-┋▸❕ remove all members from group
+┋▸🚁 COMMAND: .kickall
+┋▸❕ remove all members from group🌐
 ┋▸
-┋▸📄 COMMAND: .setgoodbye
-┋▸❕ set member leave sms
+┋▸🚁 COMMAND: .setgoodbye
+┋▸❕ set member leave sms🌐
 ┋▸
-┋▸📄 COMMAND: .setwelcome 
-┋▸❕ set member welcome sms
+┋▸🚁 COMMAND: .setwelcome 
+┋▸❕ set member welcome sms🌐
 ┋▸
-┋▸📄 COMMAND: promote 
-┋▸❕ make group admin
+┋▸🚁 COMMAND: promote 
+┋▸❕ make group admin🌐
 ┋▸
 ┋▸📄 COMMAND: .demote 
-┋▸❕ dissmis any admin 
+┋▸❕ dissmis any admin🌐 
 ┋▸
-┋▸📄 COMMAND: .tagall
-┋▸❕ mention group all members
+┋▸🚁 COMMAND: .tagall
+┋▸❕ mention group all members🌐
 ┋▸
-┋▸📄 COMMAND: .getpic
-┋▸❕ get group profile
+┋▸🚁 COMMAND: .getpic
+┋▸❕ get group profile🌐
 ┋▸
-┋▸📄 COMMAND: .invite 
-┋▸❕ get group invite link
+┋▸🚁 COMMAND: .invite 
+┋▸❕ get group invite link🌐
 ┋▸
-┋▸📄 COMMAND: .revoke 
-┋▸❕ reset group link
+┋▸🚁 COMMAND: .revoke 
+┋▸❕ reset group link🌐
 ┋▸
-┋▸📄 COMMAND: .joinrequests
-┋▸❕ cheack group panding members
+┋▸🚁 COMMAND: .joinrequests
+┋▸❕ cheack group panding members🌐
 ┋▸
-┋▸📄 COMMAND: .allreq
-┋▸❕ add group panding members 
+┋▸🚁 COMMAND: .allreq
+┋▸❕ add group panding members🌐 
 ┋▸
-┋▸📄 COMMAND: .lockgc
-┋▸❕ lock group private
+┋▸🚁 COMMAND: .lockgc
+┋▸❕ lock group private🌐
 ┋▸
-┋▸📄 COMMAND: .unlockgc
-┋▸❕ unlock group all
+┋▸🚁 COMMAND: .unlockgc
+┋▸❕ unlock group all🌐
 ┋▸
-┋▸📄 COMMAND: .leave 
-┋▸❕ left any group 
+┋▸🚁 COMMAND: .leave 
+┋▸❕ left any group🌐 
 ┋▸
-┋▸📄 COMMAND: .updategname
-┋▸❕ set group name
+┋▸🚁 COMMAND: .updategname
+┋▸❕ set group name🌐
 ┋▸
-┋▸📄 COMMAND: .updategdesc
-┋▸❕ set group description 
+┋▸🚁 COMMAND: .updategdesc
+┋▸❕ set group description🌐
 ┋▸
-┋▸📄 COMMAND: .joim
-┋▸❕ join invite link 
+┋▸🚁 COMMAND: .joim
+┋▸❕ join invite link🌐
 ┋▸
-┋▸📄 COMMAND: .hidetag
-┋▸❕ mention any user hide
+┋▸🚁 COMMAND: .hidetag
+┋▸❕ mention any user hide🌐
 ┋▸
-┋▸📄 COMMAND: .ginfo
-┋▸❕ get group information 
+┋▸🚁 COMMAND: .ginfo
+┋▸❕ get group information🌐 
 ┋▸
-┋▸📄 COMMAND: .disappear on
-┋▸❕ on disappear sms in group 
+┋▸🚁 COMMAND: .disappear on
+┋▸❕ on disappear sms in group🌐
 ┋▸
-┋▸📄 COMMAND: .disappear off
-┋▸❕ off disappear sms in group 
+┋▸🚁 COMMAND: .disappear off
+┋▸❕ off disappear sms in group🌐 
 ┋▸
-┋▸📄 COMMAND: .senddm
-┋▸❕ send disappear sms in group 
+┋▸🚁 COMMAND: .senddm
+┋▸❕ send disappear sms in group🌐
 ┋▸
-┋▸📄 COMMAND: .disappear 7d 24h 90d
-┋▸❕ set time to disappear sms
-╰━━━━━━━━━━━━⪼
+┋▸🚁COMMAND: .disappear 7d 24h 90d
+┋▸❕ set time to disappear sms🌐
+╰━━━━━━━━━━━━⪼🚁
 
  ⊷┅┅❮ *OWNER CMD* ❯┅┈⊷
-╭─────────────
+╭─────────────🌐
 ┋▸
-┋▸📄 COMMAND: .update
-┋▸❕ update bot velue 
+┋▸🚁 COMMAND: .update
+┋▸❕ update bot velue🌐 
 ┋▸
-┋▸📄 COMMAND: .restart 
-┋▸❕ restart your bot
+┋▸🚁 COMMAND: .restart 
+┋▸❕ restart your bot🌐
 ┋▸
-┋▸📄 COMMAND: .settings
-┋▸❕ see bot settings
+┋▸🚁 COMMAND: .settings
+┋▸❕ see bot settings🌐
 ┋▸
-┋▸📄 COMMAND: .owner 
-┋▸❕ get owner number 
+┋▸🚁 COMMAND: .owner 
+┋▸❕ get owner number🌐 
 ┋▸
-┋▸📄 COMMAND: .repo 
-┋▸❕ get bot repository 
+┋▸🚁 COMMAND: .repo 
+┋▸❕ get bot repository🌐
 ┋▸
-┋▸📄 COMMAND: .system 
-┋▸❕ check bot systems
+┋▸🚁 COMMAND: .system 
+┋▸❕ check bot systems🌐
 ┋▸
-┋▸📄 COMMAND: .block
-┋▸❕ block any user 
+┋▸🚁 COMMAND: .block
+┋▸❕ block any user🌐 
 ┋▸
-┋▸📄 COMMAND: .unblock 
-┋▸❕ unblock any user 
+┋▸🚁 COMMAND: .unblock 
+┋▸❕ unblock any user🌐 
 ┋▸
-┋▸📄 COMMAND: .shutdown 
-┋▸❕ logout your bot
+┋▸🚁 COMMAND: .shutdown 
+┋▸❕ logout your bot🌐
 ┋▸
-┋▸📄 COMMAND: .clearchats 
-┋▸❕ clearchats from ib
+┋▸🚁 COMMAND: .clearchats 
+┋▸❕ clearchats from ib🌐
 ┋▸
-┋▸📄 COMMAND: .setpp
-┋▸❕ update profile pic
+┋▸🚁 COMMAND: .setpp
+┋▸❕ update profile pic🌐
 ┋▸
-┋▸📄 COMMAND: .broadcast 
-┋▸❕ creat broadcast 
+┋▸🚁 COMMAND: .broadcast 
+┋▸❕ creat broadcast🌐
 ┋▸
-┋▸📄 COMMAND: .jid
-┋▸❕ get jid any user
+┋▸🚁 COMMAND: .jid
+┋▸❕ get jid any user🌐
 ┋▸
-┋▸📄 COMMAND: .gjid 
-┋▸❕ get group jid
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⪼
+┋▸🚁 COMMAND: .gjid 
+┋▸❕ get group jid🌐
+╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⪼🚁
 
  ⊷┅┅❮ *CONVERT CMD* ❯━┈⊷
-╭──────────────
-┋▸📄 COMMAND: .sticker
-┋▸❕ convert photo to sticker
+╭──────────────🌐
+┋▸🚁 COMMAND: .sticker
+┋▸❕ convert photo to sticker🌐
 ┋▸
-┋▸📄 COMMAND: .tts
-┋▸❕ change text to voice 
+┋▸🚁 COMMAND: .tts
+┋▸❕ change text to voice 🌐
 ┋▸
-┋▸📄 COMMAND: .trt 
-┋▸❕ change languages 
-╰┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⪼
+┋▸🚁 COMMAND: .trt 
+┋▸❕ change languages 🌐
+╰┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅⪼🚁
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
@@ -311,7 +310,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: 'Mʀ-Mᴀʟᴠɪɴ',
+                        newsletterName: 'Projext-x',
                         serverMessageId: 143
                     }
                 }
