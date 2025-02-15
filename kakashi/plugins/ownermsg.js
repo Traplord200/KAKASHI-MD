@@ -11,7 +11,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ sorry but your just a mere Mortal not the owner!");
     reply("🛑 Shutting down...").then(() => process.exit());
 });
 // 2. Broadcast Message to All Groups
@@ -23,7 +23,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, args, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ Sorry but your just a mere Mortal you are not the owner!");
     if (args.length === 0) return reply("📢 Please provide a message to broadcast.");
     const message = args.join(' ');
     const groups = Object.keys(await conn.groupFetchAllParticipating());
@@ -61,7 +61,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ Sorry but your just a mere Mortal You are not the owner!");
     try {
         const chats = conn.chats.all();
         for (const chat of chats) {
@@ -81,7 +81,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ Sorry but your just a mere Mortal you are not the owner!");
     reply(`🤖 *Bot JID:* ${conn.user.jid}`);
 });
 // 8. Group JIDs List
@@ -93,7 +93,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ Sorry but your just a mere Mortal you are not the owner!");
     const groups = await conn.groupFetchAllParticipating();
     const groupJids = Object.keys(groups).join('\n');
     reply(`📝 *Group JIDs:*\n\n${groupJids}`);
@@ -110,7 +110,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, quoted, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ Sorry but your just a mere Mortal You are not the owner!");
     if (!quoted) return reply("❌ Please reply to the user you want to block.");
     const user = quoted.sender;
     try {
@@ -129,12 +129,12 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, quoted, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ sorry but your just a mere Mortal You are not the owner!");
     if (!quoted) return reply("❌ Please reply to the user you want to unblock.");
     const user = quoted.sender;
     try {
         await conn.updateBlockStatus(user, 'unblock');
-        reply(`✅ɴᴇxᴜs ᴍᴅ⎈ User ${user} unblocked successfully.`);
+        reply(`✅kakashi ᴍᴅ⎈ User ${user} unblocked successfully.`);
     } catch (error) {
         reply(`❌ Error unblocking user: ${error.message}`);
     }
