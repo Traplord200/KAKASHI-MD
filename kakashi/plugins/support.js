@@ -26,15 +26,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
 
 let dec = `    
-╭──────────────≫
-┋*ᴄʀᴇᴀᴛᴏʀ* : *SIR PROJECT x (🇿🇼)*
+╭──────────────≫🌐
+┋*ᴄʀᴇᴀᴛᴏʀ* : *SIR PROJECT x (🚁)*
 ┋*ᴍᴏᴅᴇ* : *${config.MODE}*
 ┋*ᴘʀᴇғɪx* : *${config.PREFIX}*
 ┋*ʀᴀᴍ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 ┋*ᴠᴇʀsɪᴏɴ* : *2.0.4* 
 ┋*ᴜᴘᴛɪᴍᴇ* : ${runtime(process.uptime())}
 ┋
-╰──────────────≫
+╰──────────────≫🦔
    
    Kakashi ХᎠ ՏႮᏢᏢϴᎡͲ ↷
 
@@ -52,7 +52,7 @@ https://youtube.com/@malvintech2
 wa.me/263788521064?text=Support!
 
 
-> ⚔️ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ ⚔️
+> ⚔️ᴊᴏɪɴ KAKASHI MDs ᴄʜᴀɴɴᴇʟ ⚔️
 
 `;
 
