@@ -35,7 +35,7 @@ cmd({
   reply
 }) => {
   try {
-    if (!q) return reply(`*Example*: .videopro Faded by Alan Walker`);
+    if (!q) return reply(`*Example*: .videopro tattoo by Loreen`);
 
     const searchResults = await yts(q);
     const video = searchResults.all[0];
