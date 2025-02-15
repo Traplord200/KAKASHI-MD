@@ -27,7 +27,7 @@ cmd({
       return _0x3e4b22("Error fetching fonts. Please try again later.");
     }
     let _0x144999 = _0x1b3397.result.map(_0x536f9e => '*' + _0x536f9e.name + ":*\n" + _0x536f9e.result).join("\n\n");
-    _0x3e4b22("*ᴍᴀʟᴠɪɴ-xᴍᴅ ғᴀɴᴄʏ ғᴏɴᴛs*:\n\n" + _0x144999 + "\n\n> *ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*");
+    _0x3e4b22("*KAKASHI MD ғᴀɴᴄʏ ғᴏɴᴛs*:\n\n" + _0x144999 + "\n\n> *ʙʏ project x*");
   } catch (_0x439230) {
     console.error(_0x439230);
     _0x3e4b22("An error occurred while fetching fonts.");
