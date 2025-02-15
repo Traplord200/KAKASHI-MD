@@ -35,7 +35,7 @@ async (conn, mek, m, { from, isGroup, groupMetadata, reply }) => {
         } while (randomParticipant === sender);
 
         // Pairing message
-        const message = `${toM(sender)} ❤️ ${toM(randomParticipant)}\nCongratulations 💖🍻`;
+        const message = `${toM(sender)} ❤️ ${toM(randomParticipant)}\nCongratulations 🏄‍♂️🐈`;
 
         // Send the message with contextInfo
         await conn.sendMessage(from, {
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, isGroup, groupMetadata, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: 'ɴᴇxᴜs ᴛᴇᴄʜ🪀',
+                    newsletterName: 'Black hawks ᴛᴇᴄʜ🪀',
                     serverMessageId: 143,
                 },
             },
@@ -167,7 +167,7 @@ cmd({
     let fontResults = data.result.map(font => '*' + font.name + ":*\n" + font.result).join("\n\n");
     
     // Message formatting
-    let message = `*NEXUS TECH FANCY FONTS*:\n\n${fontResults}\n\n> *BY NEXUS TECH*`;
+    let message = `*Black hawks TECH FANCY FONTS*:\n\n${fontResults}\n\n> *BY NEXUS TECH*`;
 
     // Sending the message with context info
     await conn.sendMessage(
@@ -180,7 +180,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363306168354073@newsletter',
-            newsletterName: 'NEXUS TECH',
+            newsletterName: 'Black hawks TECH',
             serverMessageId: 143
           }
         }
@@ -219,7 +219,7 @@ async (conn, mek, m, { from, reply }) => {
         console.log('JSON response:', json);
 
         // Format the pickup line message
-        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *© Powered By Nexus*`;
+        const pickupLine = `*Here's a pickup line for you:*\n\n"${json.pickupline}"\n\n> *© Powered By Black hawks*`;
 
         // Send the pickup line to the chat
         await conn.sendMessage(from, { text: pickupLine }, { quoted: m });
@@ -236,7 +236,7 @@ cmd({
     pattern: "character",
     alias: ["char"],
     desc: "Check the character of a mentioned user.",
-    react: "🔥",
+    react: "🦄",
     category: "fun",
     filename: __filename,
 }, 
