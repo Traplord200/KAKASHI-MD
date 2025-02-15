@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 function hi() {
@@ -46,7 +46,7 @@ cmd({
           'image': {
             'url': _0x5e0876.images_url
           },
-          'caption': "```© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴍᴅ🚀```"
+          'caption': "```© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ KAKASHI MD🚁```"
         }, {
           'quoted': _0x2ab1e2
         });
@@ -105,9 +105,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *💗 Image ${i + 1} from your search! 💗*
 
- *©  ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴍ! 👾*
+ *©  ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ KAKASHI MD! 🐺*
 
-> 🚀 ᴍᴀʟᴠɪɴ xᴅ ɴᴇxᴜs 🚀`
+> 🌐 KAKASHI MD𓃮 ⚔️`
 }, { quoted: mek });
 }
 
