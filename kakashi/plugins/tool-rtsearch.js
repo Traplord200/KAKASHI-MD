@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `*🎺 𝐑𝐈𝐍𝐆𝐓𝐎𝐍𝐄𝐒 𝐋𝐈𝐒𝐓🎺*
+        const status = `*🦔𝐑𝐈𝐍𝐆𝐓𝐎𝐍𝐄𝐒 𝐋𝐈𝐒𝐓🦔*
 
 ────────────
 1. Querky
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
       \`.ringtone\` Querky
 
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴍᴅ`;
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ KAKASHI MD`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
@@ -59,7 +59,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: 'ɱαℓѵเɳ אɱ∂ ɾเɳɠƭσɳεร',
+                    newsletterName: 'KAKASHI MD ɾเɳɠƭσɳεร',
                     serverMessageId: 143
                 }
             }
