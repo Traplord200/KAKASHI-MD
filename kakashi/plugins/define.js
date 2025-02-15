@@ -34,8 +34,8 @@ const wordInfo = `
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫✦ɴᴇxᴜs ᴍᴅ✦ Word not found. Please check the spelling and try again.");
+                                     return reply("🚫✦KAKASHI MD✦ Word not found. Please check the spelling and try again.");
                                  }
-                                 return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
+                                 return reply("⚠️ I was never much of a definer pleas leave me out of this.");
                              }
                          });
