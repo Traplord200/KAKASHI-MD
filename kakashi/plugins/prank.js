@@ -16,12 +16,12 @@ async (conn, mek, m, { from, quoted, reply }) => {
             '*Establishing secure connection to mainframe...* 🌐',
             '*Deploying rootkits...* 🛠️',
             '',
-            '```[▓▓                    ] 10%``` ⏳',
-            '```[▓▓▓▓▓                ] 30%``` ⏳',
-            '```[▓▓▓▓▓▓▓▓▓           ] 50%``` ⏳',
-            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓       ] 70%``` ⏳',
-            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ] 90%``` ⏳',
-            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%``` ✅',
+            '```[▓▓                    ] 10%``` 👨‍💻',
+            '```[▓▓▓▓▓                ] 30%``` 👨‍💻',
+            '```[▓▓▓▓▓▓▓▓▓           ] 50%``` 👨‍💻',
+            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓       ] 70%``` 👨‍💻',
+            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ] 90%``` 👨‍💻',
+            '```[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%``` 🗃️',
             '',
             '🔒 *System Breach Successful!* 🔓',
             '*Gaining access to server logs...* 🖥️',
@@ -30,12 +30,12 @@ async (conn, mek, m, { from, quoted, reply }) => {
             '```[DATA CAPTURED: 3.2GB]``` 📡',
             '```[TRANSMISSION SECURED]``` 🔒',
             '',
-            '🚀 *Operation Complete!*',
+            '👨‍💻 *Operation Complete sent hacked users info to bots owners dm!*',
             '',
             '⚠️ _This is a simulated hacking activity for entertainment purposes._',
             '⚠️ _Remember: Ethical hacking ensures safety._',
             '',
-            '> *NEXUS MD: HACKING SIMULATION COMPLETE* ☣'
+            '> *KAKASHI MD: HACKING SIMULATION COMPLETE* ☣'
         ];
 
         for (const step of steps) {
