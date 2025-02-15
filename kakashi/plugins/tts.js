@@ -35,7 +35,7 @@ async (conn, mek, m, { from, q, reply }) => {
         return reply(translationMessage);
     } catch (e) {
         console.log(e);
-        return reply("⚠️Malvin Xd experienced An error while translating your text. Please try again later🤕");
+        return reply("⚠️KAKASHI MD experienced An error while translating your text. Please try again later⚔️");
     }
 });
 
