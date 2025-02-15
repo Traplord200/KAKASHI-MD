@@ -67,7 +67,7 @@ cmd(command, async (client, message, args, { from, quoted, reply }) => {
     };
     const messagePayload = {
       image: imagePayload,
-      caption: "> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ · · ·*"
+      caption: "> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Project x· · ·*"
     };
     const sendMessageOptions = {
       quoted: message
