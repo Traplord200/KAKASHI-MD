@@ -17,7 +17,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
      *${pushname}*, am alive 
 *╭─────────────···▸*
-*┋▸* *ɴᴀᴍᴇ ʙᴏᴛ* : *🚀ᴍᴀʟᴠɪɴ xᴅ 🚀*
+*┋▸* *ɴᴀᴍᴇ ʙᴏᴛ* : *⚔️ᴍᴀʟᴠɪɴ mᴅ ⚔️*
 *┋▸* *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 *┋▸* *ʜᴏsᴛɴᴀᴍᴇ* : *[${os.hostname()}]*
 *┋▸* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -36,7 +36,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: 'Mʀ ᴍᴀʟᴠɪɴ ᴋɪɴɢ',
+                    newsletterName: 'Sir Project x',
                     serverMessageId: 143
                 }
             }
