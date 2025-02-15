@@ -17,7 +17,7 @@ BOT_NAME: process.env.BOT_NAME || "✦KAKASHI-MD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "😂,🤐,🌐,❤️‍🌐,❤️‍🩹,⚙️,🩷,💠,🦔,💀,🔬,🩵,👁️,🤎,🖤,🩶,🤍",
 // chose custom react emojis by yourself 
 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
