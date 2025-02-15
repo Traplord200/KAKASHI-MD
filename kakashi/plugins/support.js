@@ -67,7 +67,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙳 』🪀 ',
+                        newsletterName: '🪀『 KAKASHI MD 』🪀 ',
                         serverMessageId: 143
                     }
                 }
