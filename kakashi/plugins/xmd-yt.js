@@ -6,7 +6,7 @@ cmd({
     pattern: "playt",
     desc: "download songs",
     category: "download",
-    react: "🎵",
+    react: "🚁",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -18,7 +18,7 @@ const url = data.url
 
 let desc = `
 ╭─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╮
- *ᴍaʟᴠɪɴ xᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+ *kakashi xᴍᴅ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╯
 
 ➥ *ᴛɪᴛʟᴇ:* ${data.title} 
@@ -35,7 +35,7 @@ let desc = `
  
 
 
-> © ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ
+> © ᴊᴏɪɴ kakashi xᴍᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
@@ -70,7 +70,7 @@ const url = data.url
 
 let des = `
 ╭─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╮
- *ᴍaʟᴠɪɴ xᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
+ *kakashi xᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅╯
 
 ➥ *ᴛɪᴛʟᴇ:* ${data.title} 
@@ -86,7 +86,7 @@ let des = `
 ╰─┈┄┄┉┉┉┅┅┅┅──┅┅┅┅┅┅⪼
  
 
-> © ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ
+> © ᴊᴏɪɴ Kakashi xᴍᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
