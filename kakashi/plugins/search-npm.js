@@ -38,7 +38,7 @@ cmd(_0x50a4a6, async (_0x45c3e3, _0x534cf5, _0x3c9af3, {
     const _0x484c23 = "https://www.npmjs.com/package/" + _0x71d130;
     const _0x1f70c0 = _0x27bf7a.license || "Unknown";
     const _0x3a52c7 = _0x27bf7a.repository ? _0x27bf7a.repository.url || "Not available" : "Not available";
-    let _0x1a1dc5 = "\n*MALVIN NPM SEARCH*\n\n\n*🔰NPM PACKAGE :* " + _0x71d130 + "\n\n*📄DESCRIPTION :* " + _0x4a0adb + "\n\n*⏸️ LAST VERSION :* " + _0x39dfb0 + "\n\n*🪪 LICENSE :* " + _0x1f70c0 + "\n\n*🪩REPOSITORY :* " + _0x3a52c7 + "\n\n*🔗NPM URL :* " + _0x484c23 + "\n\n";
+    let _0x1a1dc5 = "\n*Kakashi NPM SEARCH*\n\n\n*🔰NPM PACKAGE :* " + _0x71d130 + "\n\n*📄DESCRIPTION :* " + _0x4a0adb + "\n\n*⏸️ LAST VERSION :* " + _0x39dfb0 + "\n\n*🪪 LICENSE :* " + _0x1f70c0 + "\n\n*🪩REPOSITORY :* " + _0x3a52c7 + "\n\n*🔗NPM URL :* " + _0x484c23 + "\n\n";
     const _0x25a4fa = {
       text: _0x1a1dc5
     };
