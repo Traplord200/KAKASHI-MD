@@ -23,7 +23,7 @@ cmd({
     console.log("Image mime type: ", _0x4dd0ec);
 
     if (!_0x4dd0ec || !_0x4dd0ec.startsWith("image")) {
-      throw "🌻 Please reply to an image.";
+      throw "🔬 Please reply to an image.";
     }
 
     // Download the image
@@ -50,7 +50,7 @@ cmd({
     console.log("API Response:", _0x338f64.data);
 
     if (!_0x338f64.data || !_0x338f64.data.data || !_0x338f64.data.data.url) {
-      throw "❌ Failed to upload the file.";
+      throw "⚔️ Failed to upload the file.";
     }
 
     const _0x2b12b1 = _0x338f64.data.data.url;
@@ -64,14 +64,14 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': '120363306168354073@newsletter',
-        'newsletterName': "✦ɴᴇxᴜs ᴛᴇᴄʜ🪀✦",
+        'newsletterName': "✦Black hawks ᴛᴇᴄʜ🪀✦",
         'serverMessageId': 0x8f
       }
     };
 
     // Send the URL as a reply
     await _0x2a615f.sendMessage(_0x462e92, {
-      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via ✦ɴᴇxᴜs ᴛᴇᴄʜ🪀✦`,
+      'text': `*Image Uploaded Successfully 🔬*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via ✦ɴᴇxᴜs ᴛᴇᴄʜ🪀✦`,
       'contextInfo': _0x273817
     });
 
