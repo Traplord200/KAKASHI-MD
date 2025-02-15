@@ -13,17 +13,17 @@ cmd({
   filename: __filename 
 }, async (conn, mek, m, { from, reply }) => { 
   try { 
-    await conn.sendMessage(from, { text: '📡 Please wait... Checking for Malvin updates...' }, { quoted: mek });
+    await conn.sendMessage(from, { text: '📡 Please wait... Checking for Kakashis updates...' }, { quoted: mek });
     
     if (!fs.existsSync('./.git')) { 
       console.log("Initializing git repository..."); 
       execSync('git init'); 
-      execSync('git remote add origin https://www.github.com/kingmalvn/MALVIN-XD.git'); 
+      execSync('git remote add origin https://www.github.com/SOLOLORD/KAKASHI-MD.git'); 
     } else { 
       console.log("Checking existing remotes..."); 
       const remotes = execSync('git remote').toString().split('\n').filter(r => r.trim()); 
       if (!remotes.includes('origin')) { 
-        execSync('git remote add origin https://www.github.com/kingmalvn/MALVIN-XD.git'); 
+        execSync('git remote add origin https://www.github.com/SOLOLORD/KAKASHI-MD.git'); 
       } 
     }
     
@@ -47,13 +47,13 @@ cmd({
     const originCommit = execSync(`git rev-parse origin/${defaultBranch}`).toString().trim();
     
     if (localCommit === originCommit) { 
-      await conn.sendMessage(from, { text: '*✅ Malvin Xd Bot is already up to date!*' }, { quoted: mek });
+      await conn.sendMessage(from, { text: '*✅ KAKASHI MD Bot is already up to date!*' }, { quoted: mek });
     } else { 
       console.log("Resetting to origin state..."); 
       execSync(`git reset --hard origin/${defaultBranch}`); 
       console.log("Pulling updates..."); 
       execSync(`git pull origin ${defaultBranch}`); 
-      await conn.sendMessage(from, { text: '*✅ Malvin Xd Bot updated successfully!*' }, { quoted: mek });
+      await conn.sendMessage(from, { text: '*✅ KAKASHI MD Bot updated successfully!*' }, { quoted: mek });
     }
   } catch (error) { 
     console.error(error); 
