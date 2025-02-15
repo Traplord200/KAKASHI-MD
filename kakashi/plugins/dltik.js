@@ -25,7 +25,7 @@ cmd({
       return _0x2303a0("Sorry, I couldn't fetch the TikTok content. Please check the link and try again.");
     }
     const _0x5796a2 = _0x233679.result;
-    const _0x48590b = "*✦MALVIN XᎠ✦* ⊷\n┃๏ *ᎢᏆᏦᎢᝪᏦ ᗞし*\n···๏\n⊷\n*ᴘᴏsᴛ ᴅᴇᴛᴀɪʟs* ⊷\n*Type:* " + (_0x5796a2.type || "N/A") + "\n*ɴᴀᴍᴇ:* " + (_0x5796a2.name || "N/A") + "\n*ᴜsᴇʀɴᴀᴍᴇ:* " + (_0x5796a2.username || 'N/A') + "\n*ᴠɪᴇᴡs:* " + (_0x5796a2.views || 0x0) + "\n*ʟɪᴋᴇs:* " + (_0x5796a2.likes || 0x0) + "\n*ᴄᴏᴍᴍᴇɴᴛs:* " + (_0x5796a2.comments || 0x0) + "\n*ғᴀᴠᴏᴜʀɪᴛᴇs:* " + (_0x5796a2.favorite || 0x0) + "\n┇๏ *sʜᴀʀᴇs:* " + (_0x5796a2.shares || 0x0) + "    \n┇๏ *Description:* " + (_0x5796a2.description || "N/A") + "    \n╰━━━━━━━━━━━━──┈⊷\n> ©✦ɴᴇxᴜs ᴍᴅ✦";
+    const _0x48590b = "*✦KAKASHI MD✦* ⊷\n┃๏ *ᎢᏆᏦᎢᝪᏦ ᗞし*\n···๏\n⊷\n*ᴘᴏsᴛ ᴅᴇᴛᴀɪʟs* ⊷\n*Type:* " + (_0x5796a2.type || "N/A") + "\n*ɴᴀᴍᴇ:* " + (_0x5796a2.name || "N/A") + "\n*ᴜsᴇʀɴᴀᴍᴇ:* " + (_0x5796a2.username || 'N/A') + "\n*ᴠɪᴇᴡs:* " + (_0x5796a2.views || 0x0) + "\n*ʟɪᴋᴇs:* " + (_0x5796a2.likes || 0x0) + "\n*ᴄᴏᴍᴍᴇɴᴛs:* " + (_0x5796a2.comments || 0x0) + "\n*ғᴀᴠᴏᴜʀɪᴛᴇs:* " + (_0x5796a2.favorite || 0x0) + "\n┇๏ *sʜᴀʀᴇs:* " + (_0x5796a2.shares || 0x0) + "    \n┇๏ *Description:* " + (_0x5796a2.description || "N/A") + "    \n╰━━━━━━━━━━━━──┈⊷\n> ©✦ɴᴇxᴜs ᴍᴅ✦";
     if (_0x5796a2.type === 'video') {
       await _0x5361f3.sendMessage(_0xd8ba49, {
         'video': {
