@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 const config = require('../../settings');
@@ -43,7 +43,7 @@ cmd({
   try {
     if (!q) return reply('Please provide text to generate QR code.');
 
-    await reply('> *Malvin Xmd Generating QR code...*');
+    await reply('> *KAKASHI MD Generating QR code...*');
 
     const response = await fetchBuffer(`https://api.giftedtech.web.id/api/tools/createqr?apikey=gifted&text=${encodeURIComponent(q)}`);
 
