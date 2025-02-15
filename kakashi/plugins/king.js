@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : PROJECT X
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -21,11 +21,11 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let madeMenu = `
-   *MALVIN XD WHATSAPP USER BOT* 💫
+   *KAKASHI MD WHATSAPP USER BOT* ⚔️
 
                 *MY MISSION*
 
-🐼This is the result of my hard work and i Malvin King owns the bots rights and code rights. Therefore, you have no chance to change and submit my bot under any circumstances And 100+ Commands And logo, thumbnail,banner Maker Commands Ai Chatbot features On my Bot
+🐼This is the result of my hard work and i PROJECT X owns the bots rights and code rights. Therefore, you have no chance to change and submit my bot under any circumstances And 100+ Commands And logo, thumbnail,banner Maker Commands Ai Chatbot features On my Bot
 
 
 🐼 The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
@@ -37,13 +37,13 @@ let madeMenu = `
 ⚠️ Also, if your Whatsapp account gets damaged or banned by using this, i am not responsible and you should take responsibility for it.
 
 
-👨‍💻 OWNER MALVIN KING 
+👨‍💻 OWNER PROJECT X
 
-🎡 *GITHUB:*  https://github.com/kingmalvn/
+🎡 *GITHUB:*  https://github.com/SOLOLORD201/
 
-🎡 *GITHUB:*  https://github.com/kingmalvn/MALVIN-XD 
+🎡 *GITHUB:*  https://github.com/techlord01/KAKASHI-MD
 
-🪩 *MY GROUP:* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+🪩 *MY GROUP:* https://whatsapp.com/channel/0029VazncnIBPzjOc2r0Ed3S
 
 *ᴘʟᴇᴀꜱᴇ ꜱᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ꜰᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɢɪᴛʜᴜʙ* 
 
@@ -60,7 +60,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙳 』🪀 ',
+                        newsletterName: '🪀『 KAKASHI-M𝙳 』🪀 ',
                         serverMessageId: 143
                     }
                 }
@@ -68,9 +68,9 @@ await conn.sendMessage(
             { quoted: mek }
         );
 
-        // Send audio //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-        await conn.sendMessage(from, { //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' },
+        // Send audio //https://github.com/SOLOLORD201/Kakashi-database/raw/refs/heads/main/Media/menu.mp3
+        await conn.sendMessage(from, { //https://github.com/SoloLord201/Kakashi-database/raw/refs/heads/main/Media/menu.mp3
+            audio: { url: 'https://github.com/SoloLord201/kakashi-database/raw/refs/heads/main/Media/menu.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
