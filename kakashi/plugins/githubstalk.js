@@ -42,7 +42,7 @@ cmd({
     const _0x15c42b = 'https://api.github.com/users/' + _0x52764b;
     const _0x1fa020 = await axios.get(_0x15c42b);
     const _0x59aceb = _0x1fa020.data;
-    let _0x4fce05 = "*👨‍💻 ᴍᴀʟᴠɪɴ-xᴅ GITSTALK 👨‍💻*\n        \n👤 *ᴜꜱᴇʀ ɴᴀᴍᴇ*: " + (_0x59aceb.name || _0x59aceb.login) + "\n\n🔗 *ɢɪᴛʜᴜʙ ᴜʀʟ*:(" + _0x59aceb.html_url + ")\n\n📝 *ʙɪᴏ*: " + (_0x59aceb.bio || "Not available") + "\n\n🏙️ *ʟᴏᴄᴀᴛɪᴏɴ*: " + (_0x59aceb.location || "Unknown") + "\n\n📊 *ᴘᴜʙʟɪᴄ ʀᴇᴘᴏ*: " + _0x59aceb.public_repos + "\n\n👥 *ꜰᴏʟʟᴏᴡᴇʀꜱ*: " + _0x59aceb.followers + " | Following: " + _0x59aceb.following + "\n\n📅 *ᴄʀᴇᴀᴛʀᴅ ᴅᴀᴛᴇ*: " + new Date(_0x59aceb.created_at).toDateString() + "\n\n🔭 *ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ*: " + _0x59aceb.public_gists + "\n\n> ᴍᴀʟᴠɪɴ-xᴅ\n";
+    let _0x4fce05 = "*👨‍💻 KAKASHI-xᴅ GITSTALK 👨‍💻*\n        \n👤 *ᴜꜱᴇʀ ɴᴀᴍᴇ*: " + (_0x59aceb.name || _0x59aceb.login) + "\n\n🔗 *ɢɪᴛʜᴜʙ ᴜʀʟ*:(" + _0x59aceb.html_url + ")\n\n📝 *ʙɪᴏ*: " + (_0x59aceb.bio || "Not available") + "\n\n🏙️ *ʟᴏᴄᴀᴛɪᴏɴ*: " + (_0x59aceb.location || "Unknown") + "\n\n📊 *ᴘᴜʙʟɪᴄ ʀᴇᴘᴏ*: " + _0x59aceb.public_repos + "\n\n👥 *ꜰᴏʟʟᴏᴡᴇʀꜱ*: " + _0x59aceb.followers + " | Following: " + _0x59aceb.following + "\n\n📅 *ᴄʀᴇᴀᴛʀᴅ ᴅᴀᴛᴇ*: " + new Date(_0x59aceb.created_at).toDateString() + "\n\n🔭 *ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ*: " + _0x59aceb.public_gists + "\n\n> ᴍᴀʟᴠɪɴ-xᴅ\n";
     await _0x175893.sendMessage(_0x20c5b0, {
       'image': {
         'url': _0x59aceb.avatar_url
@@ -55,12 +55,12 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363306168354073@newsletter",
-          'newsletterName': "ᴍᴀʟᴠɪɴ-xᴅ ✻",
+          'newsletterName': "KAKASHI-xᴅ ✻",
           'serverMessageId': 0x3e7
         },
         'externalAdReply': {
-          'title': "MALVIN XD",
-          'body': "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+          'title': "KAKASHI XD",
+          'body': "Project x",
           'mediaType': 0x1,
           'sourceUrl': "https://files.catbox.moe/7pg2gp.jpg",
           'renderLargerThumbnail': false,
