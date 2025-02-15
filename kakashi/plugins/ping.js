@@ -1,7 +1,7 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
 Support      : wa.me/263714757857
 */
 
@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: '𝙼𝙰𝙻𝚅𝙸𝙽 𝚇𝙳',
+                    newsletterName: 'KAKASHI MD',
                     serverMessageId: 143
                 }
             }
@@ -65,7 +65,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '> 𝑡𝑒𝑠𝑡𝑖𝑛𝑔...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `> *𝑚𝑎𝑙𝑣𝑖𝑛 𝑥𝑑 𝑠𝑝𝑒𝑒𝑑.... 🔥  : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `> *KAKASHI MD flash step 𝑠𝑝𝑒𝑒𝑑....𓃠   : ${ping}ms*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
