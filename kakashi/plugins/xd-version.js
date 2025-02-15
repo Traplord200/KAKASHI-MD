@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XD
-Support      : wa.me/263714757857
+Project Name : KAKASHI MD
+Creator      : Project x
+Repo         : https://github.com/techlord01/KAKASHI-MD
+Support      : wa.me/263788521064
 */
 
 
@@ -58,7 +58,7 @@ cmd({
     if (currentVersion === latestVersion) {
       message = `Your bot is up-to-date! 😊\n Current version is: ${currentVersion}`;
     } else {
-      message = `Your 𝙼𝙰𝙻𝚅𝙸𝙽 𝚇𝙳 bot is outdated 😵!\n\n  Current version: ${currentVersion} \n Latest version: ${latestVersion}`;
+      message = `Your KAKASHI MD bot is outdated 😵!\n\n  Current version: ${currentVersion} \n Latest version: ${latestVersion}`;
     }
 
    // await reply(message);
@@ -78,14 +78,14 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: '『 𝙼𝙰𝙻𝚅𝙸𝙽 𝚇𝙳 』',
+                    newsletterName: '『 KAKASHI MD 』',
                     serverMessageId: 143
                 }
             }
         }, { quoted: mek });
 
     } catch (e) {
-        console.error("Error in checking Malvin Xd Version:", e);
+        console.error("Error in checking KAKASHI MD Version:", e);
         reply(`An error Occured Fetching Version 😕`);
     }
 });
