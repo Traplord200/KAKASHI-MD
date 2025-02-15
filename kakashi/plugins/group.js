@@ -1167,7 +1167,7 @@ cmd(_0x10f253, async (_0x100559, _0x26bd3b, _0x19d9e3, {
     }
     await _0x100559.groupParticipantsUpdate(_0x23fa85, [_0x4261f8], "demote");
     const _0x3cd26a = {
-      'text': "*User No longer an Admin*  ✔️"
+      'text': "*How sad 😔 user No longer an Admin*  ✔️"
     };
     const _0x59c923 = {
       'quoted': _0x26bd3b
