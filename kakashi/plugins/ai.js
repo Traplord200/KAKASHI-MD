@@ -91,7 +91,7 @@ cmd({
     if (!_0x367956.message) {
       return _0x36d409("No response from the AI.");
     }
-    return _0x36d409("🤖 *MALVIN MISTRA AI:*\n\n" + _0x367956.message);
+    return _0x36d409("🤖 *KAKASHI MISTRA AI:*\n\n" + _0x367956.message);
   } catch (_0x10e5e0) {
     console.error(_0x10e5e0);
     _0x36d409("An error occurred: " + _0x10e5e0.message);
@@ -137,7 +137,7 @@ cmd({
     if (!_0x2d5c9f.message) {
       return _0x30e11f("No response from the AI.");
     }
-    return _0x30e11f("🤖 *MALVIN CHATGPT 3:*\n\n" + _0x2d5c9f.message);
+    return _0x30e11f("🤖 *KAKASHI CHATGPT 3:*\n\n" + _0x2d5c9f.message);
   } catch (_0x10fce7) {
     console.error(_0x10fce7);
     _0x30e11f("An error occurred: " + _0x10fce7.message);
@@ -222,7 +222,7 @@ cmd({
 }) => {
   try {
     if (!_0x38e6c7) {
-      return _0x57b9cd("Please ask Malvin a question or provide input for the AI.");
+      return _0x57b9cd("Please ask Kakashi a question or provide input for the AI.");
     }
     const _0x29a2d3 = await fetchJson("https://api.davidcyriltech.my.id/ai/llama3?text=" + _0x38e6c7);
     console.log(_0x29a2d3);
